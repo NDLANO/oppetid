@@ -36,8 +36,8 @@ status-website:
   baseUrl: /oppetid
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Oppetid
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: Overvaking av utvalgte nettsider.
+  introTitle: "**Oppetid** overvaker statusen til utvalde nettsider."
+  introMessage: Open kjeldekode | Strake vegen frå github
   navbar:
     - title: Status
       href: /
