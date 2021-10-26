@@ -50,7 +50,7 @@ status-website:
       href: https://ghveem.github.io/oppetid/
     - title: Support
       href: https://ndla.zendesk.com  
-    - title: @NDLA_no
+    - title: "@NDLA_no"
       href: https://twitter.com/ndla_no
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
