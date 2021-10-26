@@ -9,6 +9,10 @@ sites:
     url: https://api.ndla.no
   - name: NDLA Support
     url: https://ndla.zendesk.com
+  - name: Udir.no
+    url: https://udir.no
+  - name: GREP
+    url: https://data.udir.no/kl06/v201906/status/status_publisert
   - name: SNL
     url: https://snl.no
   - name: Google
