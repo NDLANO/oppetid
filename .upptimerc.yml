@@ -40,6 +40,6 @@ status-website:
   introMessage: Open kjeldekode | Strake vegen frå github
   navbar:
     - title: Status
-      href: /
+      href: https://ghveem.github.io/oppetid/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
