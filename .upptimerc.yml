@@ -6,15 +6,22 @@ sites:
   - name: NDLA
     url: https://ndla.no
     icon: https://ndla.no/static/ndla-favicon.png
+    assignees: ghveem
   - name: NDLA API
     url: https://api.ndla.no
     icon: https://ndla.no/static/ndla-favicon.png
+    assignees: ghveem
   - name: NDLA H5P
     url: https://ca.h5p.ndla.no/h5p
     icon: https://ndla.no/static/ndla-favicon.png
+    assignees: ghveem
   - name: NDLA Support
     url: https://ndla.zendesk.com/
     icon: https://ndla.no/static/ndla-favicon.png
+    expectedStatusCodes:
+      - 301
+      - 403
+    assignees: ghveem
   - name: Udir.no
     url: https://udir.no
     icon: https://www.udir.no/Frontend/build/public/assets/images/logos/udir-logo.png
@@ -34,12 +41,75 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   baseUrl: /oppetid
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://ndla.no/static/metalogo.jpg
   name: Oppetid
   introTitle: "**Oppetid** overvaker statusen til utvalde nettsider."
   introMessage: Open kjeldekode | Strake vegen frå github
   navbar:
     - title: Status
       href: https://ghveem.github.io/oppetid/
+    - title: Support
+      href: https://ndla.zendesk.com  
+    - title: @NDLA_no
+      href: https://twitter.com/ndla_no
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+robotsText: "User-agent: * \n Disallow: /"
+i18n:
+  activeIncidents: Aktive hendingar
+  allSystemsOperational: Alt vel
+  incidentReport: "Rapport for hending #$NUMBER  →"
+  activeIncidentSummary: Opna $DATE med $POSTS postar
+  incidentTitle: Detaljar for hending $NUMBER
+  incidentDetails: Detaljar for hending
+  incidentFixed: Fiksa
+  incidentOngoing: Pågåande
+  incidentOpenedAt: Opna
+  incidentClosedAt: Lukka
+  incidentSubscribe: Abonner på oppdateringar
+  incidentViewOnGitHub: Sjå på GitHub
+  incidentCommentSummary: Posta $DATE av $AUTHOR
+  incidentBack: ← Tilbake til alle hendingar
+  pastIncidents: Eldre hendingar
+  pastIncidentsResolved: Løyst $MINUTES minutttar med $POSTS postar
+  liveStatus: Live Status
+  overallUptime: "Oppetid: $UPTIME"
+  overallUptimeTitle: Oppetid
+  averageResponseTime: "Gjenommsnittleg responstid: $TIMEms"
+  averageResponseTimeTitle: Gjenommsnittleg responstid
+  sevelDayResponseTime: Responstid siste 7-dagar
+  responseTimeMs: Responstid (ms)
+  up: Oppe
+  down: Nede
+  degraded: Nedgradert
+  ms: ms
+  loading: Lastar
+  navGitHub: GitHub
+  footer: Denne sida er [open source]($REPO), drifta med [Upptime](https://upptime.js.org)
+  rateLimitExceededTitle: For mange kall
+  rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
+  rateLimitExceededWhatDoesErrorMean: What does this error mean?
+  rateLimitExceededErrorMeaning: This website uses the GitHub API to access real-time data about our websites' status. By default, GitHub allows each IP address 60 requests per hour, which you have consumed.
+  rateLimitExceededErrorHowCanFix: Korleis kan du fikse det?
+  rateLimitExceededErrorFix: You can wait for another hour and your IP address' limit will be restored. Alternately, you can add your GitHub Personal Access Token, which gives you an additional 5,000 requests per hour.
+  rateLimitExceededGeneratePAT: Learn how to generate a Personal Access Token
+  rateLimitExceededHasSet: You have a personal access token set.
+  rateLimitExceededRemoveToken: Remove token
+  rateLimitExceededGitHubPAT: GitHub Personal Access Token
+  rateLimitExceededCopyPastePAT: Copy and paste your token
+  rateLimitExceededSaveToken: Save token
+  errorTitle: Ein feil oppstod.
+  errorIntro: Klarte ikkje å laste inn siste statusar.
+  errorText: Prøv igjen om eit par straksar.
+  errorHome: Til startsida
+  pastScheduledMaintenance: Tidlegare planlagt vedlikehald
+  scheduledMaintenance: Planlagt vedlikehald
+  scheduledMaintenanceSummaryStarted: Starta $DATE og varar $DURATION minuttar
+  scheduledMaintenanceSummaryStarts: Startar $DATE og varar $DURATION minuttar
+  startedAt: Starta 
+  startsAt: Startar 
+  duration: Varar
+  durationMin: $DURATION minuttar
+  incidentCompleted: Fullført
+  incidentScheduled: Planlagd
