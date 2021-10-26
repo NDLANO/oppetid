@@ -89,12 +89,12 @@ i18n:
   incidentBack: ← Tilbake til alle hendingar
   pastIncidents: Eldre hendingar
   pastIncidentsResolved: Løyst for $MINUTES minuttar sidan. Sjå $POSTS post(ar)
-  liveStatus: Live Status
+  liveStatus: Status
   overallUptime: "Oppetid: $UPTIME"
   overallUptimeTitle: Oppetid
   averageResponseTime: "Gjenomsnittleg responstid: $TIMEms"
   averageResponseTimeTitle: Gjenomsnittleg responstid
-  sevelDayResponseTime: Responstid siste 7-dagar
+  sevelDayResponseTime: Responstid siste 7 dagar
   responseTimeMs: Responstid (ms)
   up: Oppe
   down: Nede
@@ -102,7 +102,7 @@ i18n:
   ms: ms
   loading: Lastar
   navGitHub: GitHub
-  footer: Denne sida er laga med [open source]($REPO) frå [Upptime](https://upptime.js.org)
+  footer: Denne sida er laga med [open kjeldekode]($REPO) frå [Upptime](https://upptime.js.org)
   rateLimitExceededTitle: For mange kall
   rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
   rateLimitExceededWhatDoesErrorMean: What does this error mean?
