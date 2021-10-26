@@ -13,7 +13,7 @@ sites:
     url: https://ca.h5p.ndla.no/h5p
     icon: https://ndla.no/static/ndla-favicon.png
   - name: NDLA Support
-    url: https://ndla.zendesk.com/hc/no
+    url: https://ndla.zendesk.com/
     icon: https://ndla.no/static/ndla-favicon.png
   - name: Udir.no
     url: https://udir.no
