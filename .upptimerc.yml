@@ -7,6 +7,8 @@ sites:
     url: https://ndla.no
   - name: NDLA API
     url: https://api.ndla.no
+  - name: NDLA H5P
+    url: https://ca.h5p.ndla.no/h5p
   - name: NDLA Support
     url: https://ndla.zendesk.com
   - name: Udir.no
