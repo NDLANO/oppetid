@@ -5,12 +5,16 @@ repo: oppetid # The name of this repository
 sites:
   - name: NDLA
     url: https://ndla.no
+    icon: https://ndla.no/static/ndla-favicon.png
   - name: NDLA API
     url: https://api.ndla.no
+    icon: https://ndla.no/static/ndla-favicon.png
   - name: NDLA H5P
     url: https://ca.h5p.ndla.no/h5p
+    icon: https://ndla.no/static/ndla-favicon.png
   - name: NDLA Support
-    url: https://ndla.zendesk.com
+    url: https://ndla.zendesk.com/hc/no
+    icon: https://ndla.no/static/ndla-favicon.png
   - name: Udir.no
     url: https://udir.no
   - name: GREP
@@ -28,9 +32,9 @@ status-website:
   cname: demo.upptime.js.org
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Oppetid
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: Overvaking av utvalgte nettsider.
   navbar:
     - title: Status
       href: /
