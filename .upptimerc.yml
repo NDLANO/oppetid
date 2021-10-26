@@ -17,10 +17,13 @@ sites:
     icon: https://ndla.no/static/ndla-favicon.png
   - name: Udir.no
     url: https://udir.no
+    icon: https://www.udir.no/Frontend/build/public/assets/images/logos/udir-logo.png
   - name: GREP
     url: https://data.udir.no/kl06/v201906/status/status_publisert
+    icon: https://www.udir.no/Frontend/build/public/assets/images/logos/udir-logo.png
   - name: SNL
     url: https://snl.no
+    icon: https://snl.no/packs/assets/images/snl_logo_dark-2c14cffc8dbfed734292bbd8a0422210.svg
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
