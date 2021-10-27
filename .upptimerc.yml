@@ -37,6 +37,18 @@ sites:
     assignees:  
       - ghveem
       - gunnarvelle
+  - name: test (NDLA)
+    url: $SECRET_TESTNDLANO
+    icon: https://ndla.no/static/ndla-favicon.png
+    assignees:  
+      - ghveem
+      - gunnarvelle
+  - name: staging (NDLA)
+    url: $SECRET_STAGINGNDLANO
+    icon: https://ndla.no/static/ndla-favicon.png
+    assignees:  
+      - ghveem
+      - gunnarvelle
   - name: NDLA Support
     url: https://ndla.zendesk.com/
     icon: https://ndla.no/static/ndla-favicon.png
