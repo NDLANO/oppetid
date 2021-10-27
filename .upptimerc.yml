@@ -31,8 +31,8 @@ sites:
     assignees:
       - ghveem  
       #- ghveem
-  - name: ed.ndla.no
-    url: https://ed.ndla.no
+  - name: ed (NDLA)
+    url: $SECRET_EDNDLANO
     icon: https://ndla.no/static/ndla-favicon.png
     assignees:  
       - ghveem
