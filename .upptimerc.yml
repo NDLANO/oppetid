@@ -6,38 +6,49 @@ sites:
   - name: NDLA.no
     url: https://ndla.no
     icon: https://ndla.no/static/ndla-favicon.png
-    assignees: ghveem
+    assignees: 
+      - ghveem
+      - gunnarvelle
   - name: api.NDLA.no
     url: https://api.ndla.no
     icon: https://ndla.no/static/ndla-favicon.png
-    assignees: ghveem
+    assignees:  
+      - ghveem
+      - gunnarvelle
   - name: stier.ndla.no
     url: https://stier.ndla.no
     icon: https://ndla.no/static/ndla-favicon.png
-    assignees: ghveem
+    assignees:  
+      - ghveem
   - name: h5p.ndla.no
     url: https://ca.h5p.ndla.no/h5p
     icon: https://h5p.org/sites/all/themes/professional_themec/favicon.ico
-    assignees: ghveem
+    assignees:  
+      - ghveem
   - name: auth.h5p.ndla.no
     url: https://auth.h5p.ndla.no/
     icon: https://h5p.org/sites/all/themes/professional_themec/favicon.ico
-    assignees: ghveem
-  - name: testvarsel2
-    url: https://test.testesen.com
+    assignees:  
+      - ghveem
+  - name: Test FYR
+    url: https://test.fyr.ndla.no
     icon: https://ndla.no/static/ndla-favicon.png
-    assignees: ghveem
+    assignees:  
+      - ghveem
   - name: ed.ndla.no
     url: https://ed.ndla.no
     icon: https://ndla.no/static/ndla-favicon.png
-    assignees: ghveem
+    assignees:  
+      - ghveem
+      - gunnarvelle
   - name: NDLA Support
     url: https://ndla.zendesk.com/
     icon: https://ndla.no/static/ndla-favicon.png
     expectedStatusCodes:
       - 301
       - 403
-    assignees: ghveem
+    assignees:  
+      - ghveem
   - name: Udir.no
     url: https://udir.no
     icon: https://www.udir.no/Frontend/build/public/assets/images/logos/udir-logo.png
@@ -55,11 +66,13 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
+  theme: light
+  #light, dark, night, ocean
   baseUrl: /oppetid
   logoUrl: https://ndla.no/static/metalogo.jpg
   name: NDLA.no - Oppetid
   introTitle: "**Oppetid** overvaker statusen til utvalde nettsider"
-  introMessage: Dei flesta sakene heng saman, er t.d. api eller taksonomi nede, så påvirkar det resten. Er noko nede her, så har teknikarane fått varsel og jobbar med saka. 
+  introMessage: For ndla.no - Dei flesta sakene heng saman, er t.d. api eller taksonomi nede, så påvirkar det resten. Er noko nede her, så har teknikarane fått varsel og jobbar med saka. 
 
   navbar:
     - title: Status
