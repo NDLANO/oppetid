@@ -6,12 +6,18 @@ expectedDown: ndla, ndla support
 
 ---
 name: Planlagd vedlikehald
-about: Meld inn planlagd vedlikehalt
+
+about: Meld inn planlagd vedlikehald
+
 title: 'Vedlikehald: '
+
 labels: 'maintenance'
+
 assignees: 'ghveem'
 
----
+
 
 ** Informasjon: **
 Dette kan du forvente: 
+
+---
