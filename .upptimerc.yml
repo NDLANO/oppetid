@@ -23,8 +23,8 @@ sites:
     url: https://auth.h5p.ndla.no/
     icon: https://h5p.org/sites/all/themes/professional_themec/favicon.ico
     assignees: ghveem
-  - name: testvarsel
-    url: https://test.testesen.no
+  - name: testvarsel2
+    url: https://test.testesen.com
     icon: https://ndla.no/static/ndla-favicon.png
     assignees: ghveem
   - name: ed.ndla.no
