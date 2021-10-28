@@ -1,5 +1,5 @@
 # Change these first
-owner: ghveem # Your GitHub organization or username, where this repository lives
+owner: NDLANO # Your GitHub organization or username, where this repository lives
 repo: oppetid # The name of this repository
 
 sites:
@@ -80,11 +80,11 @@ status-website:
   logoUrl: https://ndla.no/static/metalogo.jpg
   name: NDLA.no - Oppetid
   introTitle: "**Oppetid** overvaker statusen til utvalde nettsider"
-  introMessage: For ndla.no - Dei flesta sakene heng saman, er t.d. api eller taksonomi nede, så påvirkar det resten. Er noko nede her, så har teknikarane fått varsel og jobbar med saka. 
+  introMessage: For ndla.no - Dei flesta sakene heng saman. Er t.d. api eller taksonomi nede, så påvirkar det resten. Er noko nede her, så har teknikarane fått varsel og jobbar med saka. 
 
   navbar:
     - title: Status
-      href: https://ghveem.github.io/oppetid/
+      href: https://status.ndla.no
     - title: Support
       href: https://ndla.zendesk.com  
     - title: NDLA_no på twitter
