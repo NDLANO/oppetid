@@ -109,7 +109,7 @@ i18n:
   incidentCommentSummary: Posta $DATE av $AUTHOR
   incidentBack: ← Tilbake til alle hendingar
   pastIncidents: Eldre hendingar
-  pastIncidentsResolved: Løyst for $MINUTES minuttar sidan. Sjå $POSTS post(ar)
+  pastIncidentsResolved: Løyst i løpet av $MINUTES minuttar. Sjå $POSTS post(ar)
   liveStatus: Status
   overallUptime: "Oppetid: $UPTIME"
   overallUptimeTitle: Oppetid
