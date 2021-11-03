@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 877,
     "timeDay": 687,
-    "timeWeek": 833,
+    "timeWeek": 836,
     "timeMonth": 877,
     "timeYear": 877,
     "dailyMinutesDown": {}
@@ -22,18 +22,20 @@
     "url": "https://api.ndla.no",
     "icon": "https://ndla.no/static/ndla-favicon.png",
     "slug": "api-ndla-no",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 472,
-    "timeDay": 328,
-    "timeWeek": 446,
-    "timeMonth": 472,
-    "timeYear": 472,
-    "dailyMinutesDown": {}
+    "time": 524,
+    "timeDay": 939,
+    "timeWeek": 531,
+    "timeMonth": 524,
+    "timeYear": 524,
+    "dailyMinutesDown": {
+      "2021-11-03": 0
+    }
   },
   {
     "name": "stier.ndla.no",
@@ -48,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 563,
     "timeDay": 471,
-    "timeWeek": 544,
+    "timeWeek": 520,
     "timeMonth": 563,
     "timeYear": 563,
     "dailyMinutesDown": {}
@@ -66,7 +68,7 @@
     "uptimeYear": "100.00%",
     "time": 630,
     "timeDay": 832,
-    "timeWeek": 615,
+    "timeWeek": 621,
     "timeMonth": 630,
     "timeYear": 630,
     "dailyMinutesDown": {}
@@ -84,7 +86,7 @@
     "uptimeYear": "100.00%",
     "time": 725,
     "timeDay": 539,
-    "timeWeek": 695,
+    "timeWeek": 700,
     "timeMonth": 725,
     "timeYear": 725,
     "dailyMinutesDown": {}
@@ -149,14 +151,14 @@
     "icon": "https://ndla.no/static/ndla-favicon.png",
     "slug": "ndla-support",
     "status": "up",
-    "uptime": "98.36%",
+    "uptime": "98.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.36%",
-    "uptimeYear": "98.36%",
+    "uptimeMonth": "98.43%",
+    "uptimeYear": "98.43%",
     "time": 782,
     "timeDay": 486,
-    "timeWeek": 731,
+    "timeWeek": 693,
     "timeMonth": 782,
     "timeYear": 782,
     "dailyMinutesDown": {
@@ -176,7 +178,7 @@
     "uptimeYear": "100.00%",
     "time": 2055,
     "timeDay": 1343,
-    "timeWeek": 1961,
+    "timeWeek": 1970,
     "timeMonth": 2055,
     "timeYear": 2055,
     "dailyMinutesDown": {}
@@ -194,7 +196,7 @@
     "uptimeYear": "100.00%",
     "time": 857,
     "timeDay": 616,
-    "timeWeek": 827,
+    "timeWeek": 823,
     "timeMonth": 857,
     "timeYear": 857,
     "dailyMinutesDown": {}
@@ -212,7 +214,7 @@
     "uptimeYear": "100.00%",
     "time": 283,
     "timeDay": 134,
-    "timeWeek": 255,
+    "timeWeek": 248,
     "timeMonth": 283,
     "timeYear": 283,
     "dailyMinutesDown": {}
@@ -230,7 +232,7 @@
     "uptimeYear": "100.00%",
     "time": 828,
     "timeDay": 705,
-    "timeWeek": 848,
+    "timeWeek": 796,
     "timeMonth": 828,
     "timeYear": 828,
     "dailyMinutesDown": {}
