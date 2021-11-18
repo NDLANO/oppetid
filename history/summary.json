@@ -151,11 +151,11 @@
     "icon": "https://ndla.no/static/ndla-favicon.png",
     "slug": "ndla-support",
     "status": "up",
-    "uptime": "99.46%",
+    "uptime": "99.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.46%",
-    "uptimeYear": "99.46%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "99.47%",
     "time": 727,
     "timeDay": 505,
     "timeWeek": 592,
@@ -282,9 +282,9 @@
     "url": "https://www.nrk.no/skole/",
     "icon": "https://gfx.nrk.no/z8cQnACxJjgPyAb5diF8IA6tpuqBHKgqPRjFPbRhg7Ew.jpg",
     "slug": "nrk-skole",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -293,6 +293,8 @@
     "timeWeek": 852,
     "timeMonth": 796,
     "timeYear": 796,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-18": 0
+    }
   }
 ]
