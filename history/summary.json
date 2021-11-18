@@ -151,11 +151,11 @@
     "icon": "https://ndla.no/static/ndla-favicon.png",
     "slug": "ndla-support",
     "status": "up",
-    "uptime": "99.45%",
+    "uptime": "99.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.45%",
-    "uptimeYear": "99.45%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.46%",
     "time": 727,
     "timeDay": 505,
     "timeWeek": 592,
@@ -242,9 +242,9 @@
     "url": "https://data.udir.no/kl06/v201906/status/status_publisert",
     "icon": "https://www.udir.no/Frontend/build/public/assets/images/logos/udir-logo.png",
     "slug": "grep",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -253,7 +253,9 @@
     "timeWeek": 824,
     "timeMonth": 880,
     "timeYear": 880,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-18": 0
+    }
   },
   {
     "name": "SNL",
