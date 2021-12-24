@@ -22,18 +22,20 @@
     "url": "https://api.ndla.no",
     "icon": "https://ndla.no/static/ndla-favicon.png",
     "slug": "api-ndla-no",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 491,
-    "timeDay": 471,
-    "timeWeek": 469,
-    "timeMonth": 495,
-    "timeYear": 491,
-    "dailyMinutesDown": {}
+    "time": 504,
+    "timeDay": 995,
+    "timeWeek": 600,
+    "timeMonth": 524,
+    "timeYear": 504,
+    "dailyMinutesDown": {
+      "2021-12-24": 0
+    }
   },
   {
     "name": "stier.ndla.no",
