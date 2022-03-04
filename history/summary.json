@@ -78,9 +78,9 @@
     "url": "$SECRET_AUTH5PNDLANO",
     "icon": "https://h5p.org/sites/all/themes/professional_themec/favicon.ico",
     "slug": "auth-h5-p",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,7 +89,9 @@
     "timeWeek": 652,
     "timeMonth": 637,
     "timeYear": 667,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-04": 0
+    }
   },
   {
     "name": "ed (NDLA)",
