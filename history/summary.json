@@ -22,19 +22,19 @@
     "url": "https://api.ndla.no",
     "icon": "https://ndla.no/static/ndla-favicon.png",
     "slug": "api-ndla-no",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 505,
-    "timeDay": 947,
-    "timeWeek": 696,
-    "timeMonth": 570,
-    "timeYear": 505,
+    "time": 504,
+    "timeDay": 751,
+    "timeWeek": 670,
+    "timeMonth": 565,
+    "timeYear": 504,
     "dailyMinutesDown": {
-      "2022-03-05": 0
+      "2022-03-05": 7
     }
   },
   {
@@ -82,9 +82,9 @@
     "slug": "auth-h5-p",
     "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "37.56%",
-    "uptimeWeek": "91.08%",
-    "uptimeMonth": "97.95%",
+    "uptimeDay": "37.05%",
+    "uptimeWeek": "91.01%",
+    "uptimeMonth": "97.93%",
     "uptimeYear": "99.48%",
     "time": 667,
     "timeDay": 0,
@@ -92,7 +92,7 @@
     "timeMonth": 638,
     "timeYear": 667,
     "dailyMinutesDown": {
-      "2022-03-05": 295,
+      "2022-03-05": 302,
       "2022-03-04": 604
     }
   },
