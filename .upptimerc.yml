@@ -25,12 +25,6 @@ sites:
     icon: https://h5p.org/sites/all/themes/professional_themec/favicon.ico
     assignees:  
       - ghveem
-  - name: auth H5P 
-    url: $SECRET_AUTH5PNDLANO
-    icon: https://h5p.org/sites/all/themes/professional_themec/favicon.ico
-    assignees:
-      - ghveem  
-      #- ghveem
   - name: ed (NDLA)
     url: $SECRET_EDNDLANO
     icon: https://ndla.no/static/ndla-favicon.png
