@@ -20,8 +20,23 @@ sites:
     icon: https://ndla.no/static/ndla-favicon.png
     assignees:  
       - ghveem
+  - name: liste.ndla.no
+    url: https://liste.ndla.no
+    icon: https://ndla.no/static/ndla-favicon.png
+    assignees:  
+      - ghveem
   - name: h5p.ndla.no
     url: https://ca.h5p.ndla.no/h5p
+    icon: https://h5p.org/sites/all/themes/professional_themec/favicon.ico
+    assignees:  
+      - ghveem
+  - name: h5p-test.ndla.no
+    url: https://ca.h5p-test.ndla.no/h5p
+    icon: https://h5p.org/sites/all/themes/professional_themec/favicon.ico
+    assignees:  
+      - ghveem
+  - name: h5p-staging.ndla.no
+    url: https://ca.h5p-staging.ndla.no/h5p
     icon: https://h5p.org/sites/all/themes/professional_themec/favicon.ico
     assignees:  
       - ghveem
