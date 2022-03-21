@@ -1,9 +1,9 @@
 ---
 name: Planlagt nedetid
 about: Planlagt nedetid
-title: ''
+title: Planlagt nedetid
 labels: maintenance
-assignees: ''
+assignees: ghveem
 
 ---
 
