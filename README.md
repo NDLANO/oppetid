@@ -1,6 +1,6 @@
 # [📈 Status](https://ghveem.github.io/oppetid/): <!--live status--> **Alt vel**
 
-This repository contains the open-source uptime monitor and status page for [Guttorm](https://ndla.no), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [NDLA.no](https://ndla.no), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/ghveem/oppetid/workflows/Uptime%20CI/badge.svg)](https://github.com/ghveem/oppetid/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/ghveem/oppetid/workflows/Response%20Time%20CI/badge.svg)](https://github.com/ghveem/oppetid/actions?query=workflow%3A%22Response+Time+CI%22)
@@ -37,5 +37,5 @@ Hendingar vert lagra som [Issues](https://github.com/ghveem/oppetid/issues) med 
 ## 📄 License
 
 - Drifta med: [Upptime](https://github.com/upptime/upptime)
-- Kode: [MIT](./LICENSE) // [Guttorm](https://github.com/ghveem)
+- Kode: [MIT](./LICENSE) // [NDLA.no](https://github.com/NDLANO)
 - Data i `./history` : [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
