@@ -1,5 +1,5 @@
 # Change these first
-owner: ghveem # Your GitHub organization or username, where this repository lives
+owner: NDLANO # Your GitHub organization or username, where this repository lives
 repo: oppetid # The name of this repository
 
 sites:
@@ -99,7 +99,7 @@ status-website:
 
   navbar:
     - title: Status
-      href: https://ghveem.github.io/oppetid/
+      href: https://ndlano.github.io/oppetid/
     - title: Support
       href: https://ndla.zendesk.com  
     - title: NDLA_no på twitter
