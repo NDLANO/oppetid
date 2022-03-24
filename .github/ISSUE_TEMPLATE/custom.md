@@ -3,7 +3,7 @@ name: Planlagt nedetid
 about: Brukes for å opprette varsel for ndla.no
 title: ''
 labels: 'maintenance'
-assignees: ''
+assignees: '-ghveem'
 ---
 <!--
 start: 2022-02-24T13:00:00.220Z
