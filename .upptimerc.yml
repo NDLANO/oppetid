@@ -71,6 +71,12 @@ sites:
     icon: https://ndla.no/static/ndla-favicon.png
     assignees:  
       - ghveem
+  - name: mycurriculum.ndla.no
+    url: https://mycurriculum.ndla.no
+    icon: https://ndla.no/static/ndla-favicon.png
+    assignees:  
+      - ghveem
+
 #  - name: Udir.no
 #    url: https://udir.no
 #    icon: https://www.udir.no/Frontend/build/public/assets/images/logos/udir-logo.png
