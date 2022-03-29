@@ -1,4 +1,4 @@
-# [📈 Status](https://ndlano.github.io/oppetid/): <!--live status--> **Alt vel**
+# [📈 Status](https://status.ndla.no): <!--live status--> **Alt vel**
 
 This repository contains the open-source uptime monitor and status page for [NDLA.no](https://ndla.no), powered by [Upptime](https://github.com/upptime/upptime).
 
@@ -33,7 +33,7 @@ Hendingar vert lagra som [Issues](https://github.com/NDLANO/oppetid/issues) med 
 
 <!--end: status pages-->
 
-[**Sjå oversikt →**](https://NDLANO.github.io/oppetid/)
+[**Sjå oversikt →**](https://status.ndla.no/)
 
 ## 📄 License
 
