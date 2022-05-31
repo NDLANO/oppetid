@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 474,
     "timeDay": 408,
-    "timeWeek": 530,
+    "timeWeek": 423,
     "timeMonth": 469,
     "timeYear": 474,
     "dailyMinutesDown": {}
@@ -112,9 +112,9 @@
     "url": "$SECRET_TESTNDLANO",
     "icon": "https://ndla.no/static/ndla-favicon.png",
     "slug": "test-ndla",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -123,7 +123,9 @@
     "timeWeek": 1058,
     "timeMonth": 969,
     "timeYear": 879,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-31": 0
+    }
   },
   {
     "name": "staging (NDLA)",
@@ -221,11 +223,11 @@
     "icon": "https://ndla.no/static/ndla-favicon.png",
     "slug": "mycurriculum-ndla-no",
     "status": "up",
-    "uptime": "98.27%",
+    "uptime": "98.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.27%",
+    "uptimeYear": "98.28%",
     "time": 1128,
     "timeDay": 1943,
     "timeWeek": 1380,
