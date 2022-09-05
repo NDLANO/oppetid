@@ -1,7 +1,7 @@
 url: https://api.ndla.no
-status: up
-code: 200
-responseTime: 413
-lastUpdated: 2022-09-04T23:03:33.344Z
+status: down
+code: 502
+responseTime: 1286
+lastUpdated: 2022-09-05T08:07:21.221Z
 startTime: Tue Oct 26 2021 12:20:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
