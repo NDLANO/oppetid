@@ -61,9 +61,9 @@
     "url": "https://liste.ndla.no",
     "icon": "https://ndla.no/static/ndla-favicon.png",
     "slug": "liste-ndla-no",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -73,6 +73,7 @@
     "timeMonth": 1580,
     "timeYear": 1050,
     "dailyMinutesDown": {
+      "2022-10-07": 0,
       "2022-08-30": 41,
       "2022-06-16": 43
     }
