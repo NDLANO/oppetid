@@ -214,10 +214,10 @@
     "url": "$SECRET_ARENANDLANO",
     "icon": "https://ndla.no/static/ndla-favicon.png",
     "slug": "arena-ndla",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 428,
@@ -225,7 +225,9 @@
     "timeWeek": 348,
     "timeMonth": 393,
     "timeYear": 428,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-25": 1
+    }
   },
   {
     "name": "mycurriculum.ndla.no",
