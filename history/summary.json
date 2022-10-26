@@ -14,7 +14,7 @@
     "timeDay": 600,
     "timeWeek": 738,
     "timeMonth": 915,
-    "timeYear": 859,
+    "timeYear": 857,
     "dailyMinutesDown": {}
   },
   {
@@ -22,18 +22,19 @@
     "url": "https://api.ndla.no",
     "icon": "https://ndla.no/static/ndla-favicon.png",
     "slug": "api-ndla-no",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
-    "time": 474,
-    "timeDay": 350,
-    "timeWeek": 531,
-    "timeMonth": 455,
-    "timeYear": 474,
+    "time": 476,
+    "timeDay": 869,
+    "timeWeek": 617,
+    "timeMonth": 483,
+    "timeYear": 475,
     "dailyMinutesDown": {
+      "2022-10-26": 0,
       "2022-10-20": 26,
       "2022-08-30": 43,
       "2022-06-30": 17
@@ -54,7 +55,7 @@
     "timeDay": 397,
     "timeWeek": 437,
     "timeMonth": 492,
-    "timeYear": 494,
+    "timeYear": 493,
     "dailyMinutesDown": {}
   },
   {
@@ -93,7 +94,7 @@
     "timeDay": 445,
     "timeWeek": 517,
     "timeMonth": 525,
-    "timeYear": 549,
+    "timeYear": 548,
     "dailyMinutesDown": {}
   },
   {
@@ -167,7 +168,7 @@
     "timeDay": 405,
     "timeWeek": 540,
     "timeMonth": 826,
-    "timeYear": 685,
+    "timeYear": 681,
     "dailyMinutesDown": {
       "2022-06-28": 20,
       "2022-06-21": 27
@@ -233,11 +234,11 @@
     "icon": "https://ndla.no/static/ndla-favicon.png",
     "slug": "mycurriculum-ndla-no",
     "status": "up",
-    "uptime": "99.47%",
+    "uptime": "99.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.47%",
+    "uptimeYear": "99.48%",
     "time": 1035,
     "timeDay": 719,
     "timeWeek": 909,
