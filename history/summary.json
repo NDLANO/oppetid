@@ -4,19 +4,19 @@
     "url": "https://ndla.no",
     "icon": "https://ndla.no/static/ndla-favicon.png",
     "slug": "ndla-no",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 857,
-    "timeDay": 878,
-    "timeWeek": 767,
-    "timeMonth": 833,
-    "timeYear": 856,
+    "time": 880,
+    "timeDay": 3244,
+    "timeWeek": 1725,
+    "timeMonth": 1113,
+    "timeYear": 881,
     "dailyMinutesDown": {
-      "2022-11-15": 14
+      "2022-11-15": 1
     }
   },
   {
@@ -48,9 +48,9 @@
     "slug": "stier-ndla-no",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 502,
     "timeDay": 2721,
@@ -58,7 +58,7 @@
     "timeMonth": 594,
     "timeYear": 499,
     "dailyMinutesDown": {
-      "2022-11-15": 14
+      "2022-11-15": 23
     }
   },
   {
@@ -68,9 +68,9 @@
     "slug": "liste-ndla-no",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 1165,
     "timeDay": 2553,
@@ -78,7 +78,7 @@
     "timeMonth": 1616,
     "timeYear": 1165,
     "dailyMinutesDown": {
-      "2022-11-15": 7,
+      "2022-11-15": 16,
       "2022-08-30": 41,
       "2022-06-16": 43
     }
