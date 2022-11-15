@@ -4,19 +4,19 @@
     "url": "https://ndla.no",
     "icon": "https://ndla.no/static/ndla-favicon.png",
     "slug": "ndla-no",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 857,
-    "timeDay": 875,
-    "timeWeek": 753,
-    "timeMonth": 831,
+    "timeDay": 878,
+    "timeWeek": 767,
+    "timeMonth": 833,
     "timeYear": 856,
     "dailyMinutesDown": {
-      "2022-11-15": 8
+      "2022-11-15": 14
     }
   },
   {
@@ -26,9 +26,9 @@
     "slug": "api-ndla-no",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 477,
     "timeDay": 905,
@@ -36,7 +36,6 @@
     "timeMonth": 517,
     "timeYear": 475,
     "dailyMinutesDown": {
-      "2022-11-15": 7,
       "2022-10-20": 26,
       "2022-08-30": 43,
       "2022-06-30": 17
@@ -49,9 +48,9 @@
     "slug": "stier-ndla-no",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 502,
     "timeDay": 2721,
@@ -59,7 +58,7 @@
     "timeMonth": 594,
     "timeYear": 499,
     "dailyMinutesDown": {
-      "2022-11-15": 7
+      "2022-11-15": 14
     }
   },
   {
@@ -68,18 +67,18 @@
     "icon": "https://ndla.no/static/ndla-favicon.png",
     "slug": "liste-ndla-no",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.97%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.97%",
     "time": 1165,
     "timeDay": 2553,
     "timeWeek": 1578,
     "timeMonth": 1616,
     "timeYear": 1165,
     "dailyMinutesDown": {
-      "2022-11-15": 0,
+      "2022-11-15": 7,
       "2022-08-30": 41,
       "2022-06-16": 43
     }
