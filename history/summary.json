@@ -72,7 +72,7 @@
     "uptimeYear": "99.97%",
     "time": 1217,
     "timeDay": 1573,
-    "timeWeek": 1164,
+    "timeWeek": 1206,
     "timeMonth": 1480,
     "timeYear": 1217,
     "dailyMinutesDown": {
@@ -236,10 +236,10 @@
     "url": "https://mycurriculum.ndla.no",
     "icon": "https://ndla.no/static/ndla-favicon.png",
     "slug": "mycurriculum-ndla-no",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.58%",
     "time": 1019,
@@ -248,6 +248,7 @@
     "timeMonth": 982,
     "timeYear": 1019,
     "dailyMinutesDown": {
+      "2022-12-16": 1,
       "2022-09-15": 16,
       "2022-03-29": 693,
       "2022-03-28": 891
