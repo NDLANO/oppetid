@@ -182,19 +182,19 @@
     "url": "https://om.ndla.no",
     "icon": "https://ndla.no/static/ndla-favicon.png",
     "slug": "om-ndla-no",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 412,
-    "timeDay": 490,
-    "timeWeek": 464,
-    "timeMonth": 408,
-    "timeYear": 404,
+    "time": 415,
+    "timeDay": 959,
+    "timeWeek": 584,
+    "timeMonth": 439,
+    "timeYear": 407,
     "dailyMinutesDown": {
-      "2023-01-08": 2
+      "2023-01-08": 6
     }
   },
   {
@@ -202,19 +202,19 @@
     "url": "https://blogg.ndla.no",
     "icon": "https://ndla.no/static/ndla-favicon.png",
     "slug": "blogg-ndla-no",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 541,
-    "timeDay": 754,
-    "timeWeek": 621,
-    "timeMonth": 548,
-    "timeYear": 529,
+    "time": 544,
+    "timeDay": 1298,
+    "timeWeek": 773,
+    "timeMonth": 587,
+    "timeYear": 532,
     "dailyMinutesDown": {
-      "2023-01-08": 1
+      "2023-01-08": 6
     }
   },
   {
@@ -222,19 +222,19 @@
     "url": "$SECRET_ARENANDLANO",
     "icon": "https://ndla.no/static/ndla-favicon.png",
     "slug": "arena-ndla",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 423,
-    "timeDay": 559,
-    "timeWeek": 369,
-    "timeMonth": 365,
-    "timeYear": 393,
+    "time": 425,
+    "timeDay": 930,
+    "timeWeek": 485,
+    "timeMonth": 393,
+    "timeYear": 396,
     "dailyMinutesDown": {
-      "2023-01-08": 0
+      "2023-01-08": 5
     }
   }
 ]
