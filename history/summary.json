@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 874,
-    "timeDay": 1168,
-    "timeWeek": 945,
-    "timeMonth": 827,
+    "timeDay": 786,
+    "timeWeek": 919,
+    "timeMonth": 832,
     "timeYear": 878,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 472,
-    "timeDay": 516,
-    "timeWeek": 404,
-    "timeMonth": 407,
+    "timeDay": 458,
+    "timeWeek": 406,
+    "timeMonth": 412,
     "timeYear": 468,
     "dailyMinutesDown": {
       "2022-10-20": 26,
@@ -51,10 +51,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 499,
-    "timeDay": 577,
-    "timeWeek": 532,
-    "timeMonth": 491,
-    "timeYear": 493,
+    "timeDay": 427,
+    "timeWeek": 477,
+    "timeMonth": 494,
+    "timeYear": 492,
     "dailyMinutesDown": {
       "2022-11-15": 33
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1216,
-    "timeDay": 1447,
-    "timeWeek": 1185,
+    "time": 1215,
+    "timeDay": 1115,
+    "timeWeek": 1177,
     "timeMonth": 1191,
-    "timeYear": 1216,
+    "timeYear": 1215,
     "dailyMinutesDown": {
       "2022-12-01": 5,
       "2022-11-15": 26,
@@ -94,10 +94,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 545,
-    "timeDay": 610,
-    "timeWeek": 710,
+    "timeDay": 358,
+    "timeWeek": 614,
     "timeMonth": 575,
-    "timeYear": 533,
+    "timeYear": 532,
     "dailyMinutesDown": {}
   },
   {
@@ -112,9 +112,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 473,
-    "timeDay": 574,
-    "timeWeek": 495,
-    "timeMonth": 456,
+    "timeDay": 448,
+    "timeWeek": 483,
+    "timeMonth": 460,
     "timeYear": 462,
     "dailyMinutesDown": {}
   },
@@ -130,10 +130,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 926,
-    "timeDay": 1467,
-    "timeWeek": 992,
-    "timeMonth": 956,
-    "timeYear": 943,
+    "timeDay": 697,
+    "timeWeek": 943,
+    "timeMonth": 946,
+    "timeYear": 942,
     "dailyMinutesDown": {
       "2022-05-31": 47
     }
@@ -150,10 +150,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 922,
-    "timeDay": 1357,
-    "timeWeek": 1037,
+    "timeDay": 750,
+    "timeWeek": 983,
     "timeMonth": 984,
-    "timeYear": 940,
+    "timeYear": 939,
     "dailyMinutesDown": {}
   },
   {
@@ -167,10 +167,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 666,
-    "timeDay": 631,
-    "timeWeek": 611,
-    "timeMonth": 567,
+    "time": 665,
+    "timeDay": 450,
+    "timeWeek": 584,
+    "timeMonth": 566,
     "timeYear": 657,
     "dailyMinutesDown": {
       "2022-06-28": 20,
@@ -184,18 +184,16 @@
     "slug": "om-ndla-no",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 415,
-    "timeDay": 959,
-    "timeWeek": 584,
-    "timeMonth": 439,
+    "timeDay": 1036,
+    "timeWeek": 645,
+    "timeMonth": 442,
     "timeYear": 407,
-    "dailyMinutesDown": {
-      "2023-01-08": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "blogg.ndla.no",
@@ -204,18 +202,16 @@
     "slug": "blogg-ndla-no",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 544,
-    "timeDay": 1298,
-    "timeWeek": 773,
-    "timeMonth": 587,
-    "timeYear": 532,
-    "dailyMinutesDown": {
-      "2023-01-08": 6
-    }
+    "time": 543,
+    "timeDay": 1001,
+    "timeWeek": 721,
+    "timeMonth": 569,
+    "timeYear": 531,
+    "dailyMinutesDown": {}
   },
   {
     "name": "arena (NDLA)",
@@ -224,17 +220,15 @@
     "slug": "arena-ndla",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 425,
-    "timeDay": 930,
-    "timeWeek": 485,
-    "timeMonth": 393,
+    "time": 426,
+    "timeDay": 1016,
+    "timeWeek": 526,
+    "timeMonth": 399,
     "timeYear": 396,
-    "dailyMinutesDown": {
-      "2023-01-08": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
