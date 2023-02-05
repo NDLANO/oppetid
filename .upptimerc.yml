@@ -25,6 +25,12 @@ sites:
     icon: https://ndla.no/static/ndla-favicon.png
     assignees:  
       - ghveem
+  - name: Taksonomi
+    url: https://api.ndla.no/taxonomy/api-docs
+    icon: https://ndla.no/static/ndla-favicon.png
+    assignees:
+      - gunnarvelle
+      - ghveem
   - name: h5p.ndla.no
     url: https://ca.h5p.ndla.no/h5p
     icon: https://h5p.org/sites/all/themes/professional_themec/favicon.ico
