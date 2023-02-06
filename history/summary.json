@@ -64,11 +64,11 @@
     "url": "https://liste.ndla.no",
     "icon": "https://ndla.no/static/ndla-favicon.png",
     "slug": "liste-ndla-no",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "96.88%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "96.76%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.97%",
     "time": 1264,
     "timeDay": 1320,
@@ -76,6 +76,7 @@
     "timeMonth": 1671,
     "timeYear": 1264,
     "dailyMinutesDown": {
+      "2023-02-06": 2,
       "2023-02-05": 45,
       "2022-12-01": 5,
       "2022-11-15": 26,
@@ -89,18 +90,18 @@
     "icon": "https://ndla.no/static/ndla-favicon.png",
     "slug": "taksonomi",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "98.01%",
+    "uptimeDay": "98.01%",
+    "uptimeWeek": "98.01%",
+    "uptimeMonth": "98.01%",
+    "uptimeYear": "98.01%",
     "time": 3236,
     "timeDay": 3236,
     "timeWeek": 3236,
     "timeMonth": 3236,
     "timeYear": 3236,
     "dailyMinutesDown": {
-      "2023-02-06": 0
+      "2023-02-06": 14
     }
   },
   {
