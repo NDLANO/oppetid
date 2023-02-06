@@ -88,18 +88,20 @@
     "url": "https://api.ndla.no/taxonomy/api-docs",
     "icon": "https://ndla.no/static/ndla-favicon.png",
     "slug": "taksonomi",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3297,
-    "timeDay": 3297,
-    "timeWeek": 3297,
-    "timeMonth": 3297,
-    "timeYear": 3297,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 3236,
+    "timeDay": 3236,
+    "timeWeek": 3236,
+    "timeMonth": 3236,
+    "timeYear": 3236,
+    "dailyMinutesDown": {
+      "2023-02-06": 0
+    }
   },
   {
     "name": "h5p.ndla.no",
