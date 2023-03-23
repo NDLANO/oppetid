@@ -77,7 +77,7 @@ sites:
     icon: https://ndla.no/static/ndla-favicon.png
     assignees:  
       - ghveem
-- name: matomo (NDLA)
+  - name: matomo (NDLA)
     url: $SECRET_tallNDLANO
     icon: https://ndla.no/static/ndla-favicon.png
     assignees:  
