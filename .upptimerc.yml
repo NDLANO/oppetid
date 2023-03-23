@@ -78,7 +78,8 @@ sites:
     assignees:  
       - ghveem
   - name: matomo (NDLA)
-    url: $SECRET_tallNDLANO
+    #url: $SECRET_tallNDLANO
+    url: https://tall.ndla.no
     icon: https://ndla.no/static/ndla-favicon.png
     assignees:  
       - ghveem
