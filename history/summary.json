@@ -32,7 +32,7 @@
     "timeDay": 373,
     "timeWeek": 398,
     "timeMonth": 449,
-    "timeYear": 457,
+    "timeYear": 456,
     "dailyMinutesDown": {
       "2022-10-20": 26,
       "2022-08-30": 43,
@@ -74,7 +74,7 @@
     "timeDay": 924,
     "timeWeek": 1211,
     "timeMonth": 1195,
-    "timeYear": 1634,
+    "timeYear": 1637,
     "dailyMinutesDown": {
       "2023-02-21": 29,
       "2023-02-06": 224,
@@ -220,7 +220,7 @@
     "timeDay": 443,
     "timeWeek": 409,
     "timeMonth": 547,
-    "timeYear": 413,
+    "timeYear": 414,
     "dailyMinutesDown": {}
   },
   {
@@ -264,19 +264,19 @@
     "url": "https://tall.ndla.no",
     "icon": "https://ndla.no/static/ndla-favicon.png",
     "slug": "matomo-ndla",
-    "status": "down",
-    "uptime": "97.72%",
-    "uptimeDay": "96.18%",
-    "uptimeWeek": "97.72%",
-    "uptimeMonth": "97.72%",
-    "uptimeYear": "97.72%",
-    "time": 647,
-    "timeDay": 638,
-    "timeWeek": 647,
-    "timeMonth": 647,
-    "timeYear": 647,
+    "status": "up",
+    "uptime": "95.70%",
+    "uptimeDay": "85.74%",
+    "uptimeWeek": "95.70%",
+    "uptimeMonth": "95.70%",
+    "uptimeYear": "95.70%",
+    "time": 664,
+    "timeDay": 665,
+    "timeWeek": 664,
+    "timeMonth": 664,
+    "timeYear": 664,
     "dailyMinutesDown": {
-      "2023-03-28": 55,
+      "2023-03-28": 205,
       "2023-03-23": 108
     }
   }
