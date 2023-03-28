@@ -264,18 +264,19 @@
     "url": "https://tall.ndla.no",
     "icon": "https://ndla.no/static/ndla-favicon.png",
     "slug": "matomo-ndla",
-    "status": "up",
-    "uptime": "98.37%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.37%",
-    "uptimeMonth": "98.37%",
-    "uptimeYear": "98.37%",
+    "status": "down",
+    "uptime": "98.44%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "98.44%",
+    "uptimeMonth": "98.44%",
+    "uptimeYear": "98.44%",
     "time": 660,
     "timeDay": 660,
     "timeWeek": 660,
     "timeMonth": 660,
     "timeYear": 660,
     "dailyMinutesDown": {
+      "2023-03-28": 1,
       "2023-03-23": 108
     }
   }
