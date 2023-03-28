@@ -1,7 +1,7 @@
 url: https://tall.ndla.no
-status: down
-code: 503
-responseTime: 3922
-lastUpdated: 2023-03-28T12:53:03.633Z
+status: up
+code: 200
+responseTime: 619
+lastUpdated: 2023-03-28T13:27:48.350Z
 startTime: Thu Mar 23 2023 10:01:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
