@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 870,
     "timeDay": 676,
-    "timeWeek": 830,
+    "timeWeek": 836,
     "timeMonth": 894,
     "timeYear": 876,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "99.98%",
     "time": 464,
     "timeDay": 384,
-    "timeWeek": 400,
+    "timeWeek": 406,
     "timeMonth": 447,
     "timeYear": 457,
     "dailyMinutesDown": {
@@ -52,7 +52,7 @@
     "uptimeYear": "99.99%",
     "time": 495,
     "timeDay": 334,
-    "timeWeek": 477,
+    "timeWeek": 483,
     "timeMonth": 480,
     "timeYear": 491,
     "dailyMinutesDown": {
@@ -72,7 +72,7 @@
     "uptimeYear": "99.92%",
     "time": 1554,
     "timeDay": 1374,
-    "timeWeek": 1172,
+    "timeWeek": 1186,
     "timeMonth": 1187,
     "timeYear": 1641,
     "dailyMinutesDown": {
@@ -98,7 +98,7 @@
     "uptimeYear": "99.85%",
     "time": 2324,
     "timeDay": 302,
-    "timeWeek": 374,
+    "timeWeek": 378,
     "timeMonth": 393,
     "timeYear": 2324,
     "dailyMinutesDown": {
@@ -119,7 +119,7 @@
     "uptimeYear": "100.00%",
     "time": 534,
     "timeDay": 487,
-    "timeWeek": 557,
+    "timeWeek": 481,
     "timeMonth": 526,
     "timeYear": 524,
     "dailyMinutesDown": {}
@@ -137,7 +137,7 @@
     "uptimeYear": "100.00%",
     "time": 468,
     "timeDay": 329,
-    "timeWeek": 475,
+    "timeWeek": 449,
     "timeMonth": 463,
     "timeYear": 455,
     "dailyMinutesDown": {}
@@ -155,7 +155,7 @@
     "uptimeYear": "99.98%",
     "time": 957,
     "timeDay": 834,
-    "timeWeek": 926,
+    "timeWeek": 866,
     "timeMonth": 982,
     "timeYear": 982,
     "dailyMinutesDown": {
@@ -178,7 +178,7 @@
     "uptimeYear": "100.00%",
     "time": 931,
     "timeDay": 1169,
-    "timeWeek": 926,
+    "timeWeek": 942,
     "timeMonth": 958,
     "timeYear": 956,
     "dailyMinutesDown": {}
@@ -196,7 +196,7 @@
     "uptimeYear": "99.99%",
     "time": 651,
     "timeDay": 538,
-    "timeWeek": 551,
+    "timeWeek": 545,
     "timeMonth": 598,
     "timeYear": 629,
     "dailyMinutesDown": {
@@ -218,7 +218,7 @@
     "uptimeYear": "100.00%",
     "time": 411,
     "timeDay": 527,
-    "timeWeek": 372,
+    "timeWeek": 384,
     "timeMonth": 533,
     "timeYear": 415,
     "dailyMinutesDown": {}
@@ -236,7 +236,7 @@
     "uptimeYear": "100.00%",
     "time": 539,
     "timeDay": 1288,
-    "timeWeek": 507,
+    "timeWeek": 471,
     "timeMonth": 576,
     "timeYear": 530,
     "dailyMinutesDown": {}
@@ -254,7 +254,7 @@
     "uptimeYear": "100.00%",
     "time": 406,
     "timeDay": 364,
-    "timeWeek": 396,
+    "timeWeek": 383,
     "timeMonth": 422,
     "timeYear": 398,
     "dailyMinutesDown": {}
@@ -264,19 +264,19 @@
     "url": "https://tall.ndla.no",
     "icon": "https://ndla.no/static/ndla-favicon.png",
     "slug": "matomo-ndla",
-    "status": "up",
-    "uptime": "95.61%",
-    "uptimeDay": "97.22%",
-    "uptimeWeek": "95.61%",
-    "uptimeMonth": "95.61%",
-    "uptimeYear": "95.61%",
+    "status": "down",
+    "uptime": "95.74%",
+    "uptimeDay": "97.54%",
+    "uptimeWeek": "96.73%",
+    "uptimeMonth": "95.74%",
+    "uptimeYear": "95.74%",
     "time": 2251,
-    "timeDay": 5243,
-    "timeWeek": 2251,
+    "timeDay": 5851,
+    "timeWeek": 2311,
     "timeMonth": 2251,
     "timeYear": 2251,
     "dailyMinutesDown": {
-      "2023-03-30": 22,
+      "2023-03-30": 18,
       "2023-03-29": 17,
       "2023-03-28": 294,
       "2023-03-23": 108
