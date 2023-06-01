@@ -77,12 +77,12 @@ sites:
     icon: https://ndla.no/static/ndla-favicon.png
     assignees:  
       - ghveem
-  - name: matomo (NDLA)
-    #url: $SECRET_tallNDLANO
-    url: https://tall.ndla.no
-    icon: https://ndla.no/static/ndla-favicon.png
-    assignees:  
-      - ghveem
+ # - name: matomo (NDLA)
+ #   #url: $SECRET_tallNDLANO
+ #   url: https://tall.ndla.no
+ #   icon: https://ndla.no/static/ndla-favicon.png
+ #   assignees:  
+ #     - ghveem
 #  - name: Udir.no
 #    url: https://udir.no
 #    icon: https://www.udir.no/Frontend/build/public/assets/images/logos/udir-logo.png
