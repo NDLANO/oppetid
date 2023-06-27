@@ -1,7 +1,7 @@
 url: https://om.ndla.no
-status: up
-code: 200
-responseTime: 244
-lastUpdated: 2023-06-26T23:04:05.254Z
+status: down
+code: 429
+responseTime: 85
+lastUpdated: 2023-06-27T13:30:44.074Z
 startTime: Thu Nov 04 2021 07:32:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
