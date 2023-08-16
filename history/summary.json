@@ -206,19 +206,19 @@
     "url": "https://om.ndla.no",
     "icon": "https://ndla.no/static/ndla-favicon.png",
     "slug": "om-ndla-no",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 407,
-    "timeDay": 505,
-    "timeWeek": 438,
-    "timeMonth": 411,
+    "time": 408,
+    "timeDay": 528,
+    "timeWeek": 452,
+    "timeMonth": 416,
     "timeYear": 418,
     "dailyMinutesDown": {
-      "2023-08-16": 0
+      "2023-08-16": 7
     }
   },
   {
