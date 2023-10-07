@@ -222,19 +222,19 @@
     "url": "https://blogg.ndla.no",
     "icon": "https://ndla.no/static/ndla-favicon.png",
     "slug": "blogg-ndla-no",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 532,
-    "timeDay": 378,
-    "timeWeek": 362,
-    "timeMonth": 490,
+    "timeDay": 332,
+    "timeWeek": 348,
+    "timeMonth": 482,
     "timeYear": 534,
     "dailyMinutesDown": {
-      "2023-10-07": 0
+      "2023-10-07": 7
     }
   },
   {
