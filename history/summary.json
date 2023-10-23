@@ -239,17 +239,19 @@
     "url": "$SECRET_ARENANDLANO",
     "icon": "https://ndla.no/static/ndla-favicon.png",
     "slug": "arena-ndla",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 407,
-    "timeDay": 466,
-    "timeWeek": 361,
-    "timeMonth": 395,
+    "time": 406,
+    "timeDay": 367,
+    "timeWeek": 352,
+    "timeMonth": 391,
     "timeYear": 400,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-23": 0
+    }
   }
 ]
