@@ -1,7 +1,7 @@
 url: https://blogg.ndla.no
-status: down
-code: 429
-responseTime: 69
-lastUpdated: 2023-10-25T07:40:03.560Z
+status: up
+code: 200
+responseTime: 592
+lastUpdated: 2023-10-25T07:46:47.932Z
 startTime: 2021-11-04T07:32:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
