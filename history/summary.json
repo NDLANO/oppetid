@@ -165,19 +165,19 @@
     "url": "$SECRET_STAGINGNDLANO",
     "icon": "https://ndla.no/static/ndla-favicon.png",
     "slug": "staging-ndla",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 956,
-    "timeDay": 969,
-    "timeWeek": 916,
-    "timeMonth": 1117,
-    "timeYear": 934,
+    "timeDay": 900,
+    "timeWeek": 882,
+    "timeMonth": 1101,
+    "timeYear": 933,
     "dailyMinutesDown": {
-      "2023-10-31": 1
+      "2023-10-31": 7
     }
   },
   {
