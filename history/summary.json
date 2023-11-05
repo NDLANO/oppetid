@@ -221,18 +221,20 @@
     "url": "https://blogg.ndla.no",
     "icon": "https://ndla.no/static/ndla-favicon.png",
     "slug": "blogg-ndla-no",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 531,
-    "timeDay": 573,
-    "timeWeek": 452,
-    "timeMonth": 469,
-    "timeYear": 529,
-    "dailyMinutesDown": {}
+    "time": 529,
+    "timeDay": 335,
+    "timeWeek": 408,
+    "timeMonth": 459,
+    "timeYear": 528,
+    "dailyMinutesDown": {
+      "2023-11-05": 0
+    }
   },
   {
     "name": "arena (NDLA)",
