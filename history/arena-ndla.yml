@@ -1,7 +1,7 @@
 url: $SECRET_ARENANDLANO
-status: down
-code: 429
-responseTime: 261
-lastUpdated: 2023-11-18T23:10:25.162Z
+status: up
+code: 200
+responseTime: 196
+lastUpdated: 2023-11-18T23:19:11.777Z
 startTime: 2021-11-04T07:32:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
