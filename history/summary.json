@@ -220,9 +220,9 @@
     "slug": "blogg-ndla-no",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 528,
     "timeDay": 65,
@@ -230,7 +230,7 @@
     "timeMonth": 453,
     "timeYear": 521,
     "dailyMinutesDown": {
-      "2023-11-18": 1
+      "2023-11-18": 7
     }
   },
   {
@@ -238,17 +238,19 @@
     "url": "$SECRET_ARENANDLANO",
     "icon": "https://ndla.no/static/ndla-favicon.png",
     "slug": "arena-ndla",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 403,
-    "timeDay": 374,
-    "timeWeek": 397,
-    "timeMonth": 400,
+    "time": 402,
+    "timeDay": 318,
+    "timeWeek": 383,
+    "timeMonth": 396,
     "timeYear": 396,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-18": 0
+    }
   }
 ]
