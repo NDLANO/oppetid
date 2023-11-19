@@ -240,17 +240,15 @@
     "slug": "arena-ndla",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 401,
     "timeDay": 277,
     "timeWeek": 366,
     "timeMonth": 391,
     "timeYear": 395,
-    "dailyMinutesDown": {
-      "2023-11-18": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]
