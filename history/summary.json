@@ -68,7 +68,7 @@
     "timeDay": 687,
     "timeWeek": 995,
     "timeMonth": 992,
-    "timeYear": 1490,
+    "timeYear": 1493,
     "dailyMinutesDown": {
       "2023-10-17": 20,
       "2023-02-21": 29,
@@ -120,18 +120,20 @@
     "url": "$SECRET_EDNDLANO",
     "icon": "https://ndla.no/static/ndla-favicon.png",
     "slug": "ed-ndla",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 469,
-    "timeDay": 322,
-    "timeWeek": 501,
-    "timeMonth": 582,
+    "timeDay": 289,
+    "timeWeek": 470,
+    "timeMonth": 572,
     "timeYear": 476,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-01": 0
+    }
   },
   {
     "name": "test (NDLA)",
