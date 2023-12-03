@@ -123,8 +123,8 @@
     "status": "up",
     "uptime": "99.82%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "80.21%",
-    "uptimeMonth": "95.45%",
+    "uptimeWeek": "80.07%",
+    "uptimeMonth": "95.41%",
     "uptimeYear": "99.62%",
     "time": 469,
     "timeDay": 326,
@@ -132,7 +132,7 @@
     "timeMonth": 574,
     "timeYear": 476,
     "dailyMinutesDown": {
-      "2023-12-03": 563,
+      "2023-12-03": 577,
       "2023-12-02": 1432
     }
   },
@@ -182,19 +182,19 @@
     "url": "https://ndla.zendesk.com/",
     "icon": "https://ndla.no/static/ndla-favicon.png",
     "slug": "ndla-support",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 617,
-    "timeDay": 349,
-    "timeWeek": 515,
-    "timeMonth": 586,
+    "time": 616,
+    "timeDay": 416,
+    "timeWeek": 519,
+    "timeMonth": 585,
     "timeYear": 606,
     "dailyMinutesDown": {
-      "2023-12-03": 0,
+      "2023-12-03": 14,
       "2023-11-20": 18,
       "2023-02-02": 25
     }
