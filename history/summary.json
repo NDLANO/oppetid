@@ -122,7 +122,7 @@
     "slug": "ed-ndla",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "15.77%",
+    "uptimeDay": "90.73%",
     "uptimeWeek": "59.40%",
     "uptimeMonth": "90.66%",
     "uptimeYear": "99.22%",
@@ -242,9 +242,9 @@
     "url": "$SECRET_ARENANDLANO",
     "icon": "https://ndla.no/static/ndla-favicon.png",
     "slug": "arena-ndla",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -253,6 +253,8 @@
     "timeWeek": 466,
     "timeMonth": 563,
     "timeYear": 410,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-05": 0
+    }
   }
 ]
