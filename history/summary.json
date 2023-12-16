@@ -67,7 +67,7 @@
     "time": 1556,
     "timeDay": 992,
     "timeWeek": 1277,
-    "timeMonth": 1010,
+    "timeMonth": 1036,
     "timeYear": 1492,
     "dailyMinutesDown": {
       "2023-10-17": 20,
@@ -120,18 +120,19 @@
     "url": "$SECRET_EDNDLANO",
     "icon": "https://ndla.no/static/ndla-favicon.png",
     "slug": "ed-ndla",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "90.66%",
     "uptimeYear": "99.22%",
     "time": 477,
-    "timeDay": 634,
-    "timeWeek": 749,
-    "timeMonth": 552,
-    "timeYear": 485,
+    "timeDay": 490,
+    "timeWeek": 782,
+    "timeMonth": 547,
+    "timeYear": 484,
     "dailyMinutesDown": {
+      "2023-12-16": 0,
       "2023-12-04": 1220,
       "2023-12-03": 1440,
       "2023-12-02": 1432
@@ -152,7 +153,7 @@
     "timeDay": 482,
     "timeWeek": 790,
     "timeMonth": 972,
-    "timeYear": 1017,
+    "timeYear": 1018,
     "dailyMinutesDown": {
       "2023-07-16": 47,
       "2023-01-30": 24,
@@ -193,7 +194,7 @@
     "timeDay": 410,
     "timeWeek": 490,
     "timeMonth": 533,
-    "timeYear": 598,
+    "timeYear": 599,
     "dailyMinutesDown": {
       "2023-11-20": 18,
       "2023-02-02": 25
@@ -211,7 +212,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 466,
-    "timeDay": 273,
+    "timeDay": 589,
     "timeWeek": 406,
     "timeMonth": 1196,
     "timeYear": 465,
@@ -225,14 +226,14 @@
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 537,
     "timeDay": 481,
-    "timeWeek": 445,
+    "timeWeek": 459,
     "timeMonth": 624,
-    "timeYear": 526,
+    "timeYear": 527,
     "dailyMinutesDown": {
       "2023-12-09": 15,
       "2023-11-18": 15
@@ -251,9 +252,9 @@
     "uptimeYear": "100.00%",
     "time": 412,
     "timeDay": 459,
-    "timeWeek": 361,
+    "timeWeek": 415,
     "timeMonth": 543,
-    "timeYear": 412,
+    "timeYear": 413,
     "dailyMinutesDown": {
       "2023-12-05": 20
     }
