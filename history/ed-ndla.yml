@@ -1,7 +1,7 @@
 url: $SECRET_EDNDLANO
-status: down
-code: 503
-responseTime: 568
-lastUpdated: 2024-01-02T21:52:01.803Z
+status: up
+code: 200
+responseTime: 550
+lastUpdated: 2024-01-02T21:58:45.202Z
 startTime: 2021-10-27T11:06:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
