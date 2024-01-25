@@ -1,7 +1,7 @@
 url: https://api.ndla.no/taxonomy/api-docs
-status: up
-code: 200
-responseTime: 560
-lastUpdated: 2024-01-24T23:03:40.573Z
+status: down
+code: 404
+responseTime: 73
+lastUpdated: 2024-01-25T17:07:16.713Z
 startTime: 2023-02-05T20:37:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
