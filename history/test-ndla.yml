@@ -1,7 +1,7 @@
 url: $SECRET_TESTNDLANO
-status: down
-code: 404
-responseTime: 800
-lastUpdated: 2024-02-02T18:29:50.563Z
+status: up
+code: 200
+responseTime: 566
+lastUpdated: 2024-02-02T18:37:05.849Z
 startTime: 2021-10-27T08:30:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
