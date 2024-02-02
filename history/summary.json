@@ -128,7 +128,7 @@
     "uptimeYear": "99.22%",
     "time": 485,
     "timeDay": 418,
-    "timeWeek": 398,
+    "timeWeek": 407,
     "timeMonth": 530,
     "timeYear": 495,
     "dailyMinutesDown": {
@@ -142,18 +142,19 @@
     "url": "$SECRET_TESTNDLANO",
     "icon": "https://ndla.no/static/ndla-favicon.png",
     "slug": "test-ndla",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1021,
-    "timeDay": 768,
-    "timeWeek": 995,
-    "timeMonth": 1022,
-    "timeYear": 1039,
+    "time": 1020,
+    "timeDay": 784,
+    "timeWeek": 975,
+    "timeMonth": 1032,
+    "timeYear": 1038,
     "dailyMinutesDown": {
+      "2024-02-02": 1,
       "2023-07-16": 47
     }
   },
@@ -185,12 +186,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 606,
     "timeDay": 521,
     "timeWeek": 499,
     "timeMonth": 537,
-    "timeYear": 594,
+    "timeYear": 592,
     "dailyMinutesDown": {
       "2023-11-20": 18
     }
