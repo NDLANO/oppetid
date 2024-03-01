@@ -158,18 +158,16 @@
     "slug": "staging-ndla",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 973,
     "timeDay": 1186,
     "timeWeek": 944,
     "timeMonth": 929,
     "timeYear": 978,
-    "dailyMinutesDown": {
-      "2024-03-01": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "NDLA Support",
@@ -215,18 +213,19 @@
     "url": "https://blogg.ndla.no",
     "icon": "https://ndla.no/static/ndla-favicon.png",
     "slug": "blogg-ndla-no",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 542,
-    "timeDay": 800,
-    "timeWeek": 587,
-    "timeMonth": 617,
-    "timeYear": 542,
+    "time": 541,
+    "timeDay": 539,
+    "timeWeek": 548,
+    "timeMonth": 606,
+    "timeYear": 541,
     "dailyMinutesDown": {
+      "2024-03-01": 0,
       "2023-12-09": 15,
       "2023-11-18": 15
     }
