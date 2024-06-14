@@ -1,7 +1,7 @@
 url: https://ndla.zendesk.com/
-status: down
-code: 200
-responseTime: 1319
-lastUpdated: 2024-06-14T07:14:43.000Z
+status: up
+code: 403
+responseTime: 413
+lastUpdated: 2024-06-14T07:22:51.505Z
 startTime: 2021-10-26T09:09:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
