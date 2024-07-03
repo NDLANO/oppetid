@@ -60,10 +60,10 @@
     "url": "https://liste.ndla.no",
     "icon": "https://ndla.no/static/ndla-favicon.png",
     "slug": "liste-ndla-no",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1076,
@@ -72,6 +72,7 @@
     "timeMonth": 1066,
     "timeYear": 1043,
     "dailyMinutesDown": {
+      "2024-07-03": 1,
       "2023-10-17": 20
     }
   },
@@ -167,7 +168,7 @@
     "time": 935,
     "timeDay": 629,
     "timeWeek": 781,
-    "timeMonth": 820,
+    "timeMonth": 830,
     "timeYear": 938,
     "dailyMinutesDown": {}
   },
