@@ -80,19 +80,19 @@
     "url": "https://api.ndla.no/taxonomy/api-docs",
     "icon": "https://ndla.no/static/ndla-favicon.png",
     "slug": "taksonomi",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 642,
-    "timeDay": 311,
-    "timeWeek": 1077,
-    "timeMonth": 1478,
-    "timeYear": 726,
+    "timeDay": 299,
+    "timeWeek": 964,
+    "timeMonth": 1440,
+    "timeYear": 725,
     "dailyMinutesDown": {
-      "2024-08-16": 0
+      "2024-08-16": 5
     }
   },
   {
