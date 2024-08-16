@@ -80,9 +80,9 @@
     "url": "https://api.ndla.no/taxonomy/api-docs",
     "icon": "https://ndla.no/static/ndla-favicon.png",
     "slug": "taksonomi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -91,7 +91,9 @@
     "timeWeek": 1077,
     "timeMonth": 1478,
     "timeYear": 726,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-16": 0
+    }
   },
   {
     "name": "h5p.ndla.no",
