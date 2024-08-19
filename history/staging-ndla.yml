@@ -1,7 +1,7 @@
 url: $SECRET_STAGINGNDLANO
-status: down
-code: 503
-responseTime: 328
-lastUpdated: 2024-08-19T12:02:07.961Z
+status: up
+code: 200
+responseTime: 955
+lastUpdated: 2024-08-19T12:13:01.914Z
 startTime: 2021-10-27T08:30:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
