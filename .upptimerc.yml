@@ -20,11 +20,11 @@ sites:
     icon: https://ndla.no/static/ndla-favicon.png
     assignees:  
       - ghveem
-  - name: liste.ndla.no
-    url: https://liste.ndla.no
-    icon: https://ndla.no/static/ndla-favicon.png
-    assignees:  
-      - ghveem
+  # - name: liste.ndla.no
+  #  url: https://liste.ndla.no
+  #  icon: https://ndla.no/static/ndla-favicon.png
+  #  assignees:  
+  #    - ghveem
   - name: Taksonomi
     url: https://api.ndla.no/taxonomy/api-docs
     icon: https://ndla.no/static/ndla-favicon.png
@@ -111,7 +111,7 @@ status-website:
     - title: Support
       href: https://ndla.zendesk.com  
     - title: NDLA.no på facebook
-      href: http://facebook.com/ndla.no
+      href: https://facebook.com/ndla.no
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
@@ -119,7 +119,7 @@ robotsText: "User-agent: * \n Disallow: /"
 i18n:
   activeIncidents: Aktive hendingar
   allSystemsOperational: Alt vel
-  incidentReport: "Rapport for hending #$NUMBER  →"
+  incidentReport: "Detaljar for hending #$NUMBER  →"
   activeIncidentSummary: Opna $DATE med $POSTS postar
   incidentTitle: Detaljar for hending $NUMBER
   incidentDetails: Detaljar for hending
