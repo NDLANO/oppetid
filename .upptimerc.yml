@@ -62,21 +62,17 @@ sites:
       - 403
     assignees:  
       - ghveem
-  - name: om.ndla.no
-    url: https://om.ndla.no
-    icon: https://ndla.no/static/ndla-favicon.png
-    assignees:  
-      - ghveem
-  - name: blogg.ndla.no
-    url: https://blogg.ndla.no
-    icon: https://ndla.no/static/ndla-favicon.png
-    assignees:  
-      - ghveem
-  - name: arena (NDLA)
-    url: $SECRET_ARENANDLANO
-    icon: https://ndla.no/static/ndla-favicon.png
-    assignees:  
-      - ghveem
+  
+ # - name: blogg.ndla.no
+ #   url: https://blogg.ndla.no
+ #   icon: https://ndla.no/static/ndla-favicon.png
+ #   assignees:  
+ #     - ghveem
+ # - name: arena (NDLA)
+ #   url: $SECRET_ARENANDLANO
+ #   icon: https://ndla.no/static/ndla-favicon.png
+ #   assignees:  
+ #     - ghveem
  # - name: matomo (NDLA)
  #   #url: $SECRET_tallNDLANO
  #   url: https://tall.ndla.no
@@ -114,8 +110,8 @@ status-website:
       href: https://status.ndla.no
     - title: Support
       href: https://ndla.zendesk.com  
-    - title: NDLA_no på twitter
-      href: https://twitter.com/ndla_no
+    - title: NDLA.no på facebook
+      href: http://facebook.com/ndla.no
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
