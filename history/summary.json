@@ -120,36 +120,40 @@
     "url": "$SECRET_TESTNDLANO",
     "icon": "https://ndla.no/static/ndla-favicon.png",
     "slug": "test-ndla",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 974,
-    "timeDay": 1068,
-    "timeWeek": 833,
-    "timeMonth": 833,
-    "timeYear": 1005,
-    "dailyMinutesDown": {}
+    "time": 972,
+    "timeDay": 902,
+    "timeWeek": 821,
+    "timeMonth": 831,
+    "timeYear": 1004,
+    "dailyMinutesDown": {
+      "2024-08-30": 0
+    }
   },
   {
     "name": "staging (NDLA)",
     "url": "$SECRET_STAGINGNDLANO",
     "icon": "https://ndla.no/static/ndla-favicon.png",
     "slug": "staging-ndla",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 919,
-    "timeDay": 876,
-    "timeWeek": 813,
-    "timeMonth": 791,
-    "timeYear": 932,
-    "dailyMinutesDown": {}
+    "time": 918,
+    "timeDay": 778,
+    "timeWeek": 770,
+    "timeMonth": 780,
+    "timeYear": 931,
+    "dailyMinutesDown": {
+      "2024-08-30": 0
+    }
   },
   {
     "name": "NDLA Support",
