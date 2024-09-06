@@ -42,19 +42,19 @@
     "url": "https://stier.ndla.no",
     "icon": "https://ndla.no/static/ndla-favicon.png",
     "slug": "stier-ndla-no",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 498,
-    "timeDay": 465,
-    "timeWeek": 485,
-    "timeMonth": 514,
-    "timeYear": 505,
+    "timeDay": 535,
+    "timeWeek": 504,
+    "timeMonth": 518,
+    "timeYear": 506,
     "dailyMinutesDown": {
-      "2024-09-06": 0
+      "2024-09-06": 11
     }
   },
   {
