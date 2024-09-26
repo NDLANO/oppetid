@@ -1,7 +1,7 @@
 url: https://stier.ndla.no
-status: up
-code: 200
-responseTime: 393
-lastUpdated: 2024-09-25T23:03:37.913Z
+status: down
+code: 503
+responseTime: 419
+lastUpdated: 2024-09-26T20:02:36.213Z
 startTime: 2021-10-26T12:20:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
