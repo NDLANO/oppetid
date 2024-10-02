@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 820,
-    "timeDay": 984,
-    "timeWeek": 928,
-    "timeMonth": 815,
-    "timeYear": 835,
+    "timeDay": 1251,
+    "timeWeek": 955,
+    "timeMonth": 836,
+    "timeYear": 837,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 446,
-    "timeDay": 529,
+    "time": 447,
+    "timeDay": 654,
     "timeWeek": 485,
-    "timeMonth": 429,
-    "timeYear": 440,
+    "timeMonth": 439,
+    "timeYear": 441,
     "dailyMinutesDown": {
       "2024-05-22": 21
     }
@@ -44,18 +44,16 @@
     "slug": "stier-ndla-no",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 496,
-    "timeDay": 528,
-    "timeWeek": 493,
-    "timeMonth": 480,
-    "timeYear": 504,
-    "dailyMinutesDown": {
-      "2024-10-01": 7
-    }
+    "time": 497,
+    "timeDay": 534,
+    "timeWeek": 489,
+    "timeMonth": 482,
+    "timeYear": 505,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Taksonomi",
@@ -69,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 648,
-    "timeDay": 564,
+    "timeDay": 593,
     "timeWeek": 472,
-    "timeMonth": 407,
+    "timeMonth": 414,
     "timeYear": 723,
     "dailyMinutesDown": {}
   },
@@ -86,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 512,
-    "timeDay": 635,
-    "timeWeek": 478,
-    "timeMonth": 441,
-    "timeYear": 513,
+    "time": 511,
+    "timeDay": 504,
+    "timeWeek": 479,
+    "timeMonth": 444,
+    "timeYear": 514,
     "dailyMinutesDown": {
       "2024-08-22": 92
     }
@@ -107,9 +105,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.22%",
     "time": 498,
-    "timeDay": 636,
-    "timeWeek": 531,
-    "timeMonth": 460,
+    "timeDay": 479,
+    "timeWeek": 511,
+    "timeMonth": 464,
     "timeYear": 505,
     "dailyMinutesDown": {
       "2023-12-04": 1220,
@@ -129,10 +127,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 965,
-    "timeDay": 865,
-    "timeWeek": 924,
-    "timeMonth": 806,
-    "timeYear": 983,
+    "timeDay": 1220,
+    "timeWeek": 933,
+    "timeMonth": 816,
+    "timeYear": 984,
     "dailyMinutesDown": {}
   },
   {
@@ -147,9 +145,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 918,
-    "timeDay": 1119,
-    "timeWeek": 945,
-    "timeMonth": 887,
+    "timeDay": 1186,
+    "timeWeek": 965,
+    "timeMonth": 897,
     "timeYear": 923,
     "dailyMinutesDown": {}
   },
@@ -165,9 +163,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 558,
-    "timeDay": 502,
-    "timeWeek": 595,
-    "timeMonth": 556,
+    "timeDay": 537,
+    "timeWeek": 550,
+    "timeMonth": 557,
     "timeYear": 542,
     "dailyMinutesDown": {
       "2024-07-26": 30,
