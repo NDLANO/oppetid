@@ -4,18 +4,20 @@
     "url": "https://ndla.no",
     "icon": "https://ndla.no/static/ndla-favicon.png",
     "slug": "ndla-no",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 824,
-    "timeDay": 1975,
-    "timeWeek": 1209,
-    "timeMonth": 945,
+    "time": 821,
+    "timeDay": 1631,
+    "timeWeek": 1148,
+    "timeMonth": 935,
     "timeYear": 843,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-17": 0
+    }
   },
   {
     "name": "api.NDLA.no",
@@ -44,9 +46,9 @@
     "slug": "stier-ndla-no",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 502,
     "timeDay": 1098,
@@ -54,7 +56,6 @@
     "timeMonth": 538,
     "timeYear": 511,
     "dailyMinutesDown": {
-      "2024-10-17": 7,
       "2024-10-03": 23,
       "2024-10-02": 10
     }
@@ -124,18 +125,20 @@
     "url": "$SECRET_TESTNDLANO",
     "icon": "https://ndla.no/static/ndla-favicon.png",
     "slug": "test-ndla",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 961,
-    "timeDay": 886,
-    "timeWeek": 826,
-    "timeMonth": 837,
-    "timeYear": 969,
-    "dailyMinutesDown": {}
+    "time": 960,
+    "timeDay": 811,
+    "timeWeek": 809,
+    "timeMonth": 830,
+    "timeYear": 968,
+    "dailyMinutesDown": {
+      "2024-10-17": 0
+    }
   },
   {
     "name": "staging (NDLA)",
