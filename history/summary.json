@@ -156,7 +156,7 @@
   },
   {
     "name": "NDLA Support",
-    "url": "https://ndla.zendesk.com/",
+    "url": "https://support.ndla.no/",
     "icon": "https://ndla.no/static/ndla-favicon.png",
     "slug": "ndla-support",
     "status": "up",
