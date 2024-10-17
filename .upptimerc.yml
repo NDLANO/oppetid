@@ -55,7 +55,7 @@ sites:
       - ghveem
       - gunnarvelle
   - name: NDLA Support
-    url: https://ndla.zendesk.com/
+    url: https://support.ndla.no/
     icon: https://ndla.no/static/ndla-favicon.png
     expectedStatusCodes:
       - 301
@@ -109,7 +109,7 @@ status-website:
     - title: Status
       href: https://status.ndla.no
     - title: Support
-      href: https://ndla.zendesk.com  
+      href: https://support.ndla.no  
     - title: NDLA.no på facebook
       href: https://facebook.com/ndla.no
     - title: GitHub
