@@ -5,29 +5,29 @@ repo: oppetid # The name of this repository
 sites:
   - name: NDLA.no
     url: https://ndla.no
-    icon: https://ndla.no/static/ndla-favicon.png
+    icon: https://ndla.no/static/favicon-prod-32x32.png
     assignees: 
       - ghveem
       - gunnarvelle
   - name: api.NDLA.no
     url: https://api.ndla.no
-    icon: https://ndla.no/static/ndla-favicon.png
+    icon: https://ndla.no/static/favicon-prod-32x32.png
     assignees:  
       - ghveem
       - gunnarvelle
   - name: stier.ndla.no
     url: https://stier.ndla.no
-    icon: https://ndla.no/static/ndla-favicon.png
+    icon: https://ndla.no/static/favicon-prod-32x32.png
     assignees:  
       - ghveem
   # - name: liste.ndla.no
   #  url: https://liste.ndla.no
-  #  icon: https://ndla.no/static/ndla-favicon.png
+  #  icon: https://ndla.no/static/favicon-prod-32x32.png
   #  assignees:  
   #    - ghveem
   - name: Taksonomi
     url: https://api.ndla.no/taxonomy/api-docs
-    icon: https://ndla.no/static/ndla-favicon.png
+    icon: https://ndla.no/static/favicon-prod-32x32.png
     assignees:
       - gunnarvelle
       - ghveem
@@ -38,25 +38,25 @@ sites:
       - ghveem
   - name: ed (NDLA)
     url: $SECRET_EDNDLANO
-    icon: https://ndla.no/static/ndla-favicon.png
+    icon: https://ndla.no/static/favicon-prod-32x32.png
     assignees:  
       - ghveem
       - gunnarvelle
   - name: test (NDLA)
     url: $SECRET_TESTNDLANO
-    icon: https://ndla.no/static/ndla-favicon.png
+    icon: https://ndla.no/static/favicon-prod-32x32.png
     assignees:  
       - ghveem
       - gunnarvelle
   - name: staging (NDLA)
     url: $SECRET_STAGINGNDLANO
-    icon: https://ndla.no/static/ndla-favicon.png
+    icon: https://ndla.no/static/favicon-prod-32x32.png
     assignees:  
       - ghveem
       - gunnarvelle
   - name: NDLA Support
     url: https://support.ndla.no/
-    icon: https://ndla.no/static/ndla-favicon.png
+    icon: https://ndla.no/static/favicon-prod-32x32.png
     expectedStatusCodes:
       - 301
       - 403
@@ -65,39 +65,26 @@ sites:
   
  # - name: blogg.ndla.no
  #   url: https://blogg.ndla.no
- #   icon: https://ndla.no/static/ndla-favicon.png
+ #   icon: https://ndla.no/static/favicon-prod-32x32.png
  #   assignees:  
  #     - ghveem
  # - name: arena (NDLA)
  #   url: $SECRET_ARENANDLANO
- #   icon: https://ndla.no/static/ndla-favicon.png
+ #   icon: https://ndla.no/static/favicon-prod-32x32.png
  #   assignees:  
  #     - ghveem
  # - name: matomo (NDLA)
  #   #url: $SECRET_tallNDLANO
  #   url: https://tall.ndla.no
- #   icon: https://ndla.no/static/ndla-favicon.png
+ #   icon: https://ndla.no/static/favicon-prod-32x32.png
  #   assignees:  
  #     - ghveem
-#  - name: Udir.no
-#    url: https://udir.no
-#    icon: https://www.udir.no/Frontend/build/public/assets/images/logos/udir-logo.png
-#  - name: GREP
-#    url: https://data.udir.no/kl06/v201906/status/status_publisert
-#    icon: https://www.udir.no/Frontend/build/public/assets/images/logos/udir-logo.png
-#  - name: SNL
-#    url: https://snl.no
-#    icon: https://snl.no/packs/assets/images/snl_logo_dark-2c14cffc8dbfed734292bbd8a0422210.svg
-#  - name: NRK skole
-#    url: https://www.nrk.no/skole/
-#    icon: https://gfx.nrk.no/z8cQnACxJjgPyAb5diF8IA6tpuqBHKgqPRjFPbRhg7Ew.jpg
-#    maxResponseTime: 5000
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.ndla.no
-  theme: night
+  theme: light
   #light, dark, night, ocean
   #baseUrl: /oppetid
   logoUrl: https://ndla.no/static/metalogo.jpg
@@ -149,7 +136,7 @@ i18n:
   footer: Denne sida er laga med [open kjeldekode]($REPO) frå [Upptime](https://upptime.js.org)
   rateLimitExceededTitle: For mange kall
   rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
-  rateLimitExceededWhatDoesErrorMean: What does this error mean?
+  rateLimitExceededWhatDoesErrorMean: Kva betyr dette?
   rateLimitExceededErrorMeaning: This website uses the GitHub API to access real-time data about our websites' status. By default, GitHub allows each IP address 60 requests per hour, which you have consumed.
   rateLimitExceededErrorHowCanFix: Korleis kan du fikse det?
   rateLimitExceededErrorFix: You can wait for another hour and your IP address' limit will be restored. Alternately, you can add your GitHub Personal Access Token, which gives you an additional 5,000 requests per hour.
