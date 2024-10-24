@@ -2,7 +2,7 @@
   {
     "name": "NDLA.no",
     "url": "https://ndla.no",
-    "icon": "https://ndla.no/static/ndla-favicon.png",
+    "icon": "https://ndla.no/static/favicon-prod-32x32.png",
     "slug": "ndla-no",
     "status": "up",
     "uptime": "100.00%",
@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 823,
     "timeDay": 476,
-    "timeWeek": 1091,
+    "timeWeek": 848,
     "timeMonth": 934,
     "timeYear": 844,
     "dailyMinutesDown": {}
@@ -20,7 +20,7 @@
   {
     "name": "api.NDLA.no",
     "url": "https://api.ndla.no",
-    "icon": "https://ndla.no/static/ndla-favicon.png",
+    "icon": "https://ndla.no/static/favicon-prod-32x32.png",
     "slug": "api-ndla-no",
     "status": "up",
     "uptime": "99.99%",
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 443,
     "timeDay": 422,
-    "timeWeek": 360,
+    "timeWeek": 373,
     "timeMonth": 426,
     "timeYear": 427,
     "dailyMinutesDown": {
@@ -40,7 +40,7 @@
   {
     "name": "stier.ndla.no",
     "url": "https://stier.ndla.no",
-    "icon": "https://ndla.no/static/ndla-favicon.png",
+    "icon": "https://ndla.no/static/favicon-prod-32x32.png",
     "slug": "stier-ndla-no",
     "status": "up",
     "uptime": "100.00%",
@@ -50,7 +50,7 @@
     "uptimeYear": "99.99%",
     "time": 502,
     "timeDay": 418,
-    "timeWeek": 733,
+    "timeWeek": 451,
     "timeMonth": 538,
     "timeYear": 512,
     "dailyMinutesDown": {
@@ -61,7 +61,7 @@
   {
     "name": "Taksonomi",
     "url": "https://api.ndla.no/taxonomy/api-docs",
-    "icon": "https://ndla.no/static/ndla-favicon.png",
+    "icon": "https://ndla.no/static/favicon-prod-32x32.png",
     "slug": "taksonomi",
     "status": "up",
     "uptime": "99.99%",
@@ -71,7 +71,7 @@
     "uptimeYear": "100.00%",
     "time": 653,
     "timeDay": 297,
-    "timeWeek": 622,
+    "timeWeek": 338,
     "timeMonth": 473,
     "timeYear": 728,
     "dailyMinutesDown": {}
@@ -89,7 +89,7 @@
     "uptimeYear": "99.98%",
     "time": 510,
     "timeDay": 358,
-    "timeWeek": 379,
+    "timeWeek": 400,
     "timeMonth": 458,
     "timeYear": 508,
     "dailyMinutesDown": {
@@ -99,7 +99,7 @@
   {
     "name": "ed (NDLA)",
     "url": "$SECRET_EDNDLANO",
-    "icon": "https://ndla.no/static/ndla-favicon.png",
+    "icon": "https://ndla.no/static/favicon-prod-32x32.png",
     "slug": "ed-ndla",
     "status": "up",
     "uptime": "99.74%",
@@ -109,7 +109,7 @@
     "uptimeYear": "99.22%",
     "time": 500,
     "timeDay": 339,
-    "timeWeek": 745,
+    "timeWeek": 412,
     "timeMonth": 548,
     "timeYear": 511,
     "dailyMinutesDown": {
@@ -121,7 +121,7 @@
   {
     "name": "test (NDLA)",
     "url": "$SECRET_TESTNDLANO",
-    "icon": "https://ndla.no/static/ndla-favicon.png",
+    "icon": "https://ndla.no/static/favicon-prod-32x32.png",
     "slug": "test-ndla",
     "status": "up",
     "uptime": "99.99%",
@@ -131,7 +131,7 @@
     "uptimeYear": "100.00%",
     "time": 958,
     "timeDay": 569,
-    "timeWeek": 713,
+    "timeWeek": 717,
     "timeMonth": 807,
     "timeYear": 965,
     "dailyMinutesDown": {}
@@ -139,7 +139,7 @@
   {
     "name": "staging (NDLA)",
     "url": "$SECRET_STAGINGNDLANO",
-    "icon": "https://ndla.no/static/ndla-favicon.png",
+    "icon": "https://ndla.no/static/favicon-prod-32x32.png",
     "slug": "staging-ndla",
     "status": "up",
     "uptime": "100.00%",
@@ -149,7 +149,7 @@
     "uptimeYear": "100.00%",
     "time": 910,
     "timeDay": 526,
-    "timeWeek": 760,
+    "timeWeek": 765,
     "timeMonth": 821,
     "timeYear": 898,
     "dailyMinutesDown": {}
@@ -157,7 +157,7 @@
   {
     "name": "NDLA Support",
     "url": "https://support.ndla.no/",
-    "icon": "https://ndla.no/static/ndla-favicon.png",
+    "icon": "https://ndla.no/static/favicon-prod-32x32.png",
     "slug": "ndla-support",
     "status": "up",
     "uptime": "99.99%",
@@ -167,7 +167,7 @@
     "uptimeYear": "99.98%",
     "time": 553,
     "timeDay": 558,
-    "timeWeek": 549,
+    "timeWeek": 582,
     "timeMonth": 564,
     "timeYear": 541,
     "dailyMinutesDown": {
