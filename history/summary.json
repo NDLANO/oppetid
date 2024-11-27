@@ -123,18 +123,20 @@
     "url": "$SECRET_TESTNDLANO",
     "icon": "https://ndla.no/static/favicon-prod-32x32.png",
     "slug": "test-ndla",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 952,
-    "timeDay": 816,
-    "timeWeek": 1084,
-    "timeMonth": 866,
-    "timeYear": 901,
-    "dailyMinutesDown": {}
+    "timeDay": 594,
+    "timeWeek": 995,
+    "timeMonth": 851,
+    "timeYear": 900,
+    "dailyMinutesDown": {
+      "2024-11-27": 0
+    }
   },
   {
     "name": "staging (NDLA)",
