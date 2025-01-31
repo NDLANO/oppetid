@@ -38,6 +38,24 @@
     }
   },
   {
+    "name": "arena.ndla.no",
+    "url": "https://arena.ndla.no",
+    "icon": "https://ndla.no/static/favicon-prod-32x32.png",
+    "slug": "arena-ndla-no",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "stier.ndla.no",
     "url": "https://stier.ndla.no",
     "icon": "https://ndla.no/static/favicon-prod-32x32.png",
@@ -108,10 +126,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 494,
-    "timeDay": 400,
-    "timeWeek": 521,
-    "timeMonth": 458,
-    "timeYear": 475,
+    "timeDay": 532,
+    "timeWeek": 539,
+    "timeMonth": 465,
+    "timeYear": 476,
     "dailyMinutesDown": {}
   },
   {
@@ -126,10 +144,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 945,
-    "timeDay": 761,
-    "timeWeek": 883,
+    "timeDay": 797,
+    "timeWeek": 877,
     "timeMonth": 810,
-    "timeYear": 844,
+    "timeYear": 843,
     "dailyMinutesDown": {}
   },
   {
@@ -143,11 +161,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 904,
-    "timeDay": 741,
-    "timeWeek": 922,
-    "timeMonth": 864,
-    "timeYear": 833,
+    "time": 905,
+    "timeDay": 1019,
+    "timeWeek": 969,
+    "timeMonth": 877,
+    "timeYear": 834,
     "dailyMinutesDown": {}
   },
   {
@@ -162,9 +180,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 546,
-    "timeDay": 578,
-    "timeWeek": 594,
-    "timeMonth": 541,
+    "timeDay": 567,
+    "timeWeek": 602,
+    "timeMonth": 545,
     "timeYear": 546,
     "dailyMinutesDown": {
       "2024-07-26": 30,
