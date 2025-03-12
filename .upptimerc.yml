@@ -37,8 +37,8 @@ sites:
     assignees:
       - gunnarvelle
       - ghveem
-  - name: h5p.ndla.no
-    url: https://ca.h5p.ndla.no/h5p
+  - name: hub.h5p.ndla.no
+    url: https://hub.h5p.ndla.no
     icon: https://h5p.org/sites/all/themes/professional_themec/favicon.ico
     assignees:  
       - ghveem
