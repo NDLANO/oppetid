@@ -60,18 +60,19 @@
     "url": "https://stier.ndla.no",
     "icon": "https://ndla.no/static/favicon-prod-32x32.png",
     "slug": "stier-ndla-no",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 503,
-    "timeDay": 420,
-    "timeWeek": 513,
-    "timeMonth": 478,
-    "timeYear": 496,
+    "time": 502,
+    "timeDay": 373,
+    "timeWeek": 496,
+    "timeMonth": 475,
+    "timeYear": 495,
     "dailyMinutesDown": {
+      "2025-03-25": 0,
       "2024-10-03": 23,
       "2024-10-02": 10
     }
@@ -137,17 +138,17 @@
     "slug": "test-ndla",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.08%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "100.00%",
     "time": 929,
     "timeDay": 795,
     "timeWeek": 878,
     "timeMonth": 870,
     "timeYear": 818,
     "dailyMinutesDown": {
-      "2025-03-25": 27
+      "2025-03-25": 15
     }
   },
   {
