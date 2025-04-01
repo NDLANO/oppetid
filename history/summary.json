@@ -42,19 +42,19 @@
     "url": "https://arena.ndla.no",
     "icon": "https://ndla.no/static/favicon-prod-32x32.png",
     "slug": "arena-ndla-no",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 554,
-    "timeDay": 608,
-    "timeWeek": 556,
-    "timeMonth": 571,
-    "timeYear": 554,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 596,
+    "timeDay": 1281,
+    "timeWeek": 831,
+    "timeMonth": 649,
+    "timeYear": 596,
     "dailyMinutesDown": {
-      "2025-04-01": 12
+      "2025-04-01": 0
     }
   },
   {
@@ -145,7 +145,7 @@
     "uptimeYear": "100.00%",
     "time": 925,
     "timeDay": 852,
-    "timeWeek": 838,
+    "timeWeek": 828,
     "timeMonth": 858,
     "timeYear": 820,
     "dailyMinutesDown": {
