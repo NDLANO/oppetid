@@ -68,7 +68,11 @@ sites:
       - 403
     assignees:  
       - ghveem
-  
+   - name: Kvalitet
+    url: https://kvalitet.ndla.no
+    icon: https://ndla.no/static/favicon-prod-32x32.png
+    assignees:  
+      - ghveem
  # - name: blogg.ndla.no
  #   url: https://blogg.ndla.no
  #   icon: https://ndla.no/static/favicon-prod-32x32.png
