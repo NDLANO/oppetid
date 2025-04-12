@@ -13,7 +13,7 @@
     "time": 832,
     "timeDay": 870,
     "timeWeek": 1119,
-    "timeMonth": 1112,
+    "timeMonth": 1116,
     "timeYear": 822,
     "dailyMinutesDown": {}
   },
@@ -51,7 +51,7 @@
     "time": 617,
     "timeDay": 441,
     "timeWeek": 615,
-    "timeMonth": 719,
+    "timeMonth": 718,
     "timeYear": 617,
     "dailyMinutesDown": {}
   },
@@ -60,18 +60,19 @@
     "url": "https://stier.ndla.no",
     "icon": "https://ndla.no/static/favicon-prod-32x32.png",
     "slug": "stier-ndla-no",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 504,
-    "timeDay": 554,
-    "timeWeek": 499,
+    "timeDay": 510,
+    "timeWeek": 507,
     "timeMonth": 518,
     "timeYear": 497,
     "dailyMinutesDown": {
+      "2025-04-12": 0,
       "2024-10-03": 23,
       "2024-10-02": 10
     }
@@ -90,7 +91,7 @@
     "time": 636,
     "timeDay": 298,
     "timeWeek": 371,
-    "timeMonth": 408,
+    "timeMonth": 402,
     "timeYear": 649,
     "dailyMinutesDown": {}
   },
@@ -108,7 +109,7 @@
     "time": 911,
     "timeDay": 694,
     "timeWeek": 794,
-    "timeMonth": 911,
+    "timeMonth": 910,
     "timeYear": 911,
     "dailyMinutesDown": {}
   },
@@ -118,7 +119,7 @@
     "icon": "https://ndla.no/static/favicon-prod-32x32.png",
     "slug": "ed-ndla",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -126,7 +127,7 @@
     "time": 479,
     "timeDay": 329,
     "timeWeek": 426,
-    "timeMonth": 461,
+    "timeMonth": 456,
     "timeYear": 455,
     "dailyMinutesDown": {}
   },
@@ -144,7 +145,7 @@
     "time": 924,
     "timeDay": 637,
     "timeWeek": 795,
-    "timeMonth": 884,
+    "timeMonth": 870,
     "timeYear": 818,
     "dailyMinutesDown": {
       "2025-03-25": 15
@@ -164,7 +165,7 @@
     "time": 896,
     "timeDay": 918,
     "timeWeek": 919,
-    "timeMonth": 996,
+    "timeMonth": 989,
     "timeYear": 845,
     "dailyMinutesDown": {}
   },
@@ -182,7 +183,7 @@
     "time": 552,
     "timeDay": 492,
     "timeWeek": 545,
-    "timeMonth": 670,
+    "timeMonth": 676,
     "timeYear": 558,
     "dailyMinutesDown": {
       "2024-07-26": 30,
