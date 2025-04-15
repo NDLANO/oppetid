@@ -1,7 +1,7 @@
 url: https://kvalitet.ndla.no
-status: up
-code: 200
-responseTime: 494
-lastUpdated: 2025-04-14T23:04:19.386Z
+status: down
+code: 503
+responseTime: 407
+lastUpdated: 2025-04-15T08:48:03.441Z
 startTime: 2025-04-04T09:12:37.668Z
 generator: Upptime <https://github.com/upptime/upptime>
