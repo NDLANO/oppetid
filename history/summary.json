@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 859,
-    "timeDay": 945,
-    "timeWeek": 1034,
-    "timeMonth": 1108,
-    "timeYear": 867,
+    "time": 860,
+    "timeDay": 1578,
+    "timeWeek": 1054,
+    "timeMonth": 1135,
+    "timeYear": 868,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 435,
-    "timeDay": 519,
-    "timeWeek": 466,
-    "timeMonth": 452,
-    "timeYear": 443,
+    "timeDay": 332,
+    "timeWeek": 424,
+    "timeMonth": 453,
+    "timeYear": 442,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 591,
-    "timeDay": 686,
-    "timeWeek": 533,
+    "time": 590,
+    "timeDay": 433,
+    "timeWeek": 528,
     "timeMonth": 519,
-    "timeYear": 591,
+    "timeYear": 590,
     "dailyMinutesDown": {}
   },
   {
@@ -65,10 +65,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 495,
-    "timeDay": 341,
-    "timeWeek": 470,
-    "timeMonth": 496,
-    "timeYear": 496,
+    "timeDay": 380,
+    "timeWeek": 433,
+    "timeMonth": 498,
+    "timeYear": 495,
     "dailyMinutesDown": {
       "2024-10-03": 23,
       "2024-10-02": 10
@@ -86,10 +86,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 603,
-    "timeDay": 286,
-    "timeWeek": 342,
+    "timeDay": 284,
+    "timeWeek": 302,
     "timeMonth": 383,
-    "timeYear": 598,
+    "timeYear": 597,
     "dailyMinutesDown": {}
   },
   {
@@ -103,11 +103,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 937,
-    "timeDay": 1222,
-    "timeWeek": 1025,
-    "timeMonth": 1009,
-    "timeYear": 937,
+    "time": 935,
+    "timeDay": 783,
+    "timeWeek": 988,
+    "timeMonth": 1010,
+    "timeYear": 935,
     "dailyMinutesDown": {}
   },
   {
@@ -122,10 +122,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 468,
-    "timeDay": 347,
-    "timeWeek": 481,
+    "timeDay": 331,
+    "timeWeek": 441,
     "timeMonth": 450,
-    "timeYear": 456,
+    "timeYear": 455,
     "dailyMinutesDown": {}
   },
   {
@@ -140,10 +140,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 876,
-    "timeDay": 651,
-    "timeWeek": 751,
-    "timeMonth": 863,
-    "timeYear": 826,
+    "timeDay": 759,
+    "timeWeek": 735,
+    "timeMonth": 866,
+    "timeYear": 825,
     "dailyMinutesDown": {
       "2025-03-25": 15
     }
@@ -155,18 +155,16 @@
     "slug": "staging-ndla",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 890,
-    "timeDay": 737,
-    "timeWeek": 909,
+    "time": 857,
+    "timeDay": 813,
+    "timeWeek": 872,
     "timeMonth": 950,
-    "timeYear": 867,
-    "dailyMinutesDown": {
-      "2025-06-03": 15
-    }
+    "timeYear": 868,
+    "dailyMinutesDown": {}
   },
   {
     "name": "NDLA Support",
@@ -180,8 +178,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 553,
-    "timeDay": 614,
-    "timeWeek": 573,
+    "timeDay": 557,
+    "timeWeek": 522,
     "timeMonth": 619,
     "timeYear": 568,
     "dailyMinutesDown": {
@@ -200,11 +198,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 546,
-    "timeDay": 710,
-    "timeWeek": 520,
-    "timeMonth": 571,
-    "timeYear": 546,
+    "time": 545,
+    "timeDay": 462,
+    "timeWeek": 482,
+    "timeMonth": 572,
+    "timeYear": 545,
     "dailyMinutesDown": {}
   }
 ]
