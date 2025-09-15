@@ -196,17 +196,19 @@
     "url": "https://kvalitet.ndla.no",
     "icon": "https://ndla.no/static/favicon-prod-32x32.png",
     "slug": "kvalitet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 576,
-    "timeDay": 711,
-    "timeWeek": 622,
-    "timeMonth": 616,
-    "timeYear": 576,
-    "dailyMinutesDown": {}
+    "time": 575,
+    "timeDay": 523,
+    "timeWeek": 593,
+    "timeMonth": 608,
+    "timeYear": 575,
+    "dailyMinutesDown": {
+      "2025-09-15": 0
+    }
   }
 ]
