@@ -21,11 +21,11 @@ sites:
     assignees:  
       - ghveem
       - gunnarvelle
-  - name: stier.ndla.no
-    url: https://stier.ndla.no
-    icon: https://ndla.no/static/favicon-prod-32x32.png
-    assignees:  
-      - ghveem
+  # - name: stier.ndla.no
+  #  url: https://stier.ndla.no
+  #  icon: https://ndla.no/static/favicon-prod-32x32.png
+  #  assignees:  
+  #    - ghveem
   # - name: liste.ndla.no
   #  url: https://liste.ndla.no
   #  icon: https://ndla.no/static/favicon-prod-32x32.png
