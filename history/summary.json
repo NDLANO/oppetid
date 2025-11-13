@@ -22,19 +22,19 @@
     "url": "https://api.ndla.no",
     "icon": "https://ndla.no/static/favicon-prod-32x32.png",
     "slug": "api-ndla-no",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 450,
-    "timeDay": 525,
-    "timeWeek": 439,
-    "timeMonth": 474,
+    "timeDay": 491,
+    "timeWeek": 437,
+    "timeMonth": 473,
     "timeYear": 454,
     "dailyMinutesDown": {
-      "2025-11-13": 0
+      "2025-11-13": 15
     }
   },
   {
