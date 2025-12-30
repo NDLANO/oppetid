@@ -76,9 +76,9 @@
     "url": "https://hub.h5p.ndla.no",
     "icon": "https://h5p.org/sites/all/themes/professional_themec/favicon.ico",
     "slug": "hub-h5p-ndla-no",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 1112,
     "timeMonth": 1154,
     "timeYear": 1008,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-30": 0
+    }
   },
   {
     "name": "ed (NDLA)",
@@ -185,7 +187,7 @@
     "uptimeYear": "99.96%",
     "time": 585,
     "timeDay": 574,
-    "timeWeek": 616,
+    "timeWeek": 644,
     "timeMonth": 644,
     "timeYear": 585,
     "dailyMinutesDown": {
