@@ -138,16 +138,18 @@
     "slug": "staging-ndla",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 931,
     "timeDay": 660,
     "timeWeek": 902,
     "timeMonth": 787,
     "timeYear": 957,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-09": 2
+    }
   },
   {
     "name": "NDLA Support",
