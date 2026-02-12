@@ -15,6 +15,12 @@ sites:
     assignees:  
       - ghveem
       - gunnarvelle
+  - name: ndla-ki.no
+    url: http://ndla-ki.no/
+    icon: https://ndla.no/static/favicon-prod-32x32.png
+    assignees: 
+      - ghveem
+      - janlindso
   - name: arena.ndla.no
     url: https://arena.ndla.no
     icon: https://ndla.no/static/favicon-prod-32x32.png
