@@ -40,19 +40,19 @@
     "url": "http://ndla-ki.no/",
     "icon": "https://ndla.no/static/favicon-prod-32x32.png",
     "slug": "ndla-ki-no",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1231,
-    "timeDay": 1347,
-    "timeWeek": 1234,
-    "timeMonth": 1231,
-    "timeYear": 1231,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1242,
+    "timeDay": 1392,
+    "timeWeek": 1259,
+    "timeMonth": 1242,
+    "timeYear": 1242,
     "dailyMinutesDown": {
-      "2026-03-01": 0
+      "2026-03-01": 7
     }
   },
   {
