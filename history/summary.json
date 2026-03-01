@@ -40,9 +40,9 @@
     "url": "http://ndla-ki.no/",
     "icon": "https://ndla.no/static/favicon-prod-32x32.png",
     "slug": "ndla-ki-no",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 1234,
     "timeMonth": 1231,
     "timeYear": 1231,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-01": 0
+    }
   },
   {
     "name": "arena.ndla.no",
