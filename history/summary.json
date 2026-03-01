@@ -12,8 +12,8 @@
     "uptimeYear": "100.00%",
     "time": 970,
     "timeDay": 537,
-    "timeWeek": 621,
-    "timeMonth": 674,
+    "timeWeek": 630,
+    "timeMonth": 672,
     "timeYear": 1038,
     "dailyMinutesDown": {}
   },
@@ -30,8 +30,8 @@
     "uptimeYear": "100.00%",
     "time": 448,
     "timeDay": 454,
-    "timeWeek": 423,
-    "timeMonth": 431,
+    "timeWeek": 433,
+    "timeMonth": 433,
     "timeYear": 450,
     "dailyMinutesDown": {}
   },
@@ -40,19 +40,19 @@
     "url": "http://ndla-ki.no/",
     "icon": "https://ndla.no/static/favicon-prod-32x32.png",
     "slug": "ndla-ki-no",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 1725,
-    "timeDay": 4685,
-    "timeWeek": 2269,
-    "timeMonth": 1725,
-    "timeYear": 1725,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2146,
+    "timeDay": 6265,
+    "timeWeek": 3267,
+    "timeMonth": 2146,
+    "timeYear": 2146,
     "dailyMinutesDown": {
-      "2026-03-01": 7
+      "2026-03-01": 0
     }
   },
   {
@@ -68,8 +68,8 @@
     "uptimeYear": "100.00%",
     "time": 658,
     "timeDay": 810,
-    "timeWeek": 761,
-    "timeMonth": 767,
+    "timeWeek": 780,
+    "timeMonth": 768,
     "timeYear": 668,
     "dailyMinutesDown": {}
   },
@@ -86,7 +86,7 @@
     "uptimeYear": "100.00%",
     "time": 397,
     "timeDay": 471,
-    "timeWeek": 425,
+    "timeWeek": 444,
     "timeMonth": 436,
     "timeYear": 402,
     "dailyMinutesDown": {}
@@ -104,8 +104,8 @@
     "uptimeYear": "99.99%",
     "time": 1151,
     "timeDay": 2584,
-    "timeWeek": 2358,
-    "timeMonth": 2172,
+    "timeWeek": 2391,
+    "timeMonth": 2186,
     "timeYear": 1151,
     "dailyMinutesDown": {
       "2026-02-09": 16,
@@ -125,8 +125,8 @@
     "uptimeYear": "100.00%",
     "time": 470,
     "timeDay": 401,
-    "timeWeek": 434,
-    "timeMonth": 460,
+    "timeWeek": 445,
+    "timeMonth": 459,
     "timeYear": 482,
     "dailyMinutesDown": {}
   },
@@ -143,8 +143,8 @@
     "uptimeYear": "99.99%",
     "time": 849,
     "timeDay": 807,
-    "timeWeek": 848,
-    "timeMonth": 811,
+    "timeWeek": 856,
+    "timeMonth": 804,
     "timeYear": 855,
     "dailyMinutesDown": {
       "2025-12-10": 20,
@@ -165,8 +165,8 @@
     "uptimeYear": "100.00%",
     "time": 936,
     "timeDay": 854,
-    "timeWeek": 972,
-    "timeMonth": 917,
+    "timeWeek": 982,
+    "timeMonth": 913,
     "timeYear": 955,
     "dailyMinutesDown": {
       "2026-02-09": 17
@@ -185,8 +185,8 @@
     "uptimeYear": "99.93%",
     "time": 603,
     "timeDay": 545,
-    "timeWeek": 557,
-    "timeMonth": 577,
+    "timeWeek": 555,
+    "timeMonth": 578,
     "timeYear": 618,
     "dailyMinutesDown": {
       "2026-02-06": 23,
@@ -211,7 +211,7 @@
     "uptimeYear": "99.96%",
     "time": 593,
     "timeDay": 601,
-    "timeWeek": 613,
+    "timeWeek": 619,
     "timeMonth": 584,
     "timeYear": 593,
     "dailyMinutesDown": {
