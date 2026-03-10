@@ -61,18 +61,20 @@
     "url": "https://arena.ndla.no",
     "icon": "https://ndla.no/static/favicon-prod-32x32.png",
     "slug": "arena-ndla-no",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 661,
-    "timeDay": 845,
-    "timeWeek": 839,
-    "timeMonth": 786,
-    "timeYear": 675,
-    "dailyMinutesDown": {}
+    "time": 660,
+    "timeDay": 582,
+    "timeWeek": 774,
+    "timeMonth": 771,
+    "timeYear": 674,
+    "dailyMinutesDown": {
+      "2026-03-10": 0
+    }
   },
   {
     "name": "Taksonomi",
