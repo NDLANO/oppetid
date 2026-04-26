@@ -1,7 +1,7 @@
 url: https://hub.h5p.ndla.no
-status: up
-code: 200
-responseTime: 943
-lastUpdated: 2026-04-25T23:14:04.911Z
+status: down
+code: 502
+responseTime: 384
+lastUpdated: 2026-04-26T12:27:35.843Z
 startTime: 2025-03-12T12:32:00.902Z
 generator: Upptime <https://github.com/upptime/upptime>
