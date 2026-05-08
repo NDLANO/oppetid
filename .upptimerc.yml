@@ -66,14 +66,14 @@ sites:
     assignees:  
       - ghveem
       - gunnarvelle
-  - name: NDLA Support
-    url: https://support.ndla.no/
-    icon: https://ndla.no/static/favicon-prod-32x32.png
-    expectedStatusCodes:
-      - 301
-      - 403
-    assignees:  
-      - ghveem
+#  - name: NDLA Support
+#    url: https://support.ndla.no/
+#    icon: https://ndla.no/static/favicon-prod-32x32.png
+#    expectedStatusCodes:
+#      - 301
+#      - 403
+#    assignees:  
+#      - ghveem
   - name: Kvalitet
     url: https://kvalitet.ndla.no
     icon: https://ndla.no/static/favicon-prod-32x32.png
