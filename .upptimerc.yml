@@ -6,39 +6,43 @@ sites:
   - name: NDLA.no
     url: https://ndla.no
     icon: https://ndla.no/static/favicon-prod-32x32.png
-    assignees: 
+    assignees:
       - ghveem
       - gunnarvelle
   - name: api.NDLA.no
     url: https://api.ndla.no
+    headers:
+      - "NDLA-Upptime-Bot: thats me"
     icon: https://ndla.no/static/favicon-prod-32x32.png
-    assignees:  
+    assignees:
       - ghveem
       - gunnarvelle
   - name: ndla-ki.no
     url: http://ndla-ki.no/
     icon: https://ndla.no/static/favicon-prod-32x32.png
-    assignees: 
+    assignees:
       - ghveem
       - janlindso
   - name: arena.ndla.no
     url: https://arena.ndla.no
     icon: https://ndla.no/static/favicon-prod-32x32.png
-    assignees:  
+    assignees:
       - ghveem
       - gunnarvelle
   # - name: stier.ndla.no
   #  url: https://stier.ndla.no
   #  icon: https://ndla.no/static/favicon-prod-32x32.png
-  #  assignees:  
+  #  assignees:
   #    - ghveem
   # - name: liste.ndla.no
   #  url: https://liste.ndla.no
   #  icon: https://ndla.no/static/favicon-prod-32x32.png
-  #  assignees:  
+  #  assignees:
   #    - ghveem
   - name: Taksonomi
     url: https://api.ndla.no/taxonomy/api-docs
+    headers:
+      - "NDLA-Upptime-Bot: thats me"
     icon: https://ndla.no/static/favicon-prod-32x32.png
     assignees:
       - gunnarvelle
@@ -46,56 +50,56 @@ sites:
   - name: hub.h5p.ndla.no
     url: https://hub.h5p.ndla.no
     icon: https://h5p.org/sites/all/themes/professional_themec/favicon.ico
-    assignees:  
+    assignees:
       - ghveem
   - name: ed (NDLA)
     url: $SECRET_EDNDLANO
     icon: https://ndla.no/static/favicon-prod-32x32.png
-    assignees:  
+    assignees:
       - ghveem
       - gunnarvelle
   - name: test (NDLA)
     url: $SECRET_TESTNDLANO
     icon: https://ndla.no/static/favicon-prod-32x32.png
-    assignees:  
+    assignees:
       - ghveem
       - gunnarvelle
   - name: staging (NDLA)
     url: $SECRET_STAGINGNDLANO
     icon: https://ndla.no/static/favicon-prod-32x32.png
-    assignees:  
+    assignees:
       - ghveem
       - gunnarvelle
-#  - name: NDLA Support
-#    url: https://support.ndla.no/
-#    icon: https://ndla.no/static/favicon-prod-32x32.png
-#    expectedStatusCodes:
-#      - 301
-#      - 403
-#    assignees:  
-#      - ghveem
+  #  - name: NDLA Support
+  #    url: https://support.ndla.no/
+  #    icon: https://ndla.no/static/favicon-prod-32x32.png
+  #    expectedStatusCodes:
+  #      - 301
+  #      - 403
+  #    assignees:
+  #      - ghveem
   - name: Kvalitet
     url: https://kvalitet.ndla.no
     icon: https://ndla.no/static/favicon-prod-32x32.png
-    assignees:  
+    assignees:
       - ghveem
- # - name: blogg.ndla.no
- #   url: https://blogg.ndla.no
- #   icon: https://ndla.no/static/favicon-prod-32x32.png
- #   assignees:  
- #     - ghveem
- # - name: arena (NDLA)
- #   url: $SECRET_ARENANDLANO
- #   icon: https://ndla.no/static/favicon-prod-32x32.png
- #   assignees:  
- #     - ghveem
- # - name: matomo (NDLA)
- #   #url: $SECRET_tallNDLANO
- #   url: https://tall.ndla.no
- #   icon: https://ndla.no/static/favicon-prod-32x32.png
- #   assignees:  
- #     - ghveem
-  
+  # - name: blogg.ndla.no
+  #   url: https://blogg.ndla.no
+  #   icon: https://ndla.no/static/favicon-prod-32x32.png
+  #   assignees:
+  #     - ghveem
+  # - name: arena (NDLA)
+  #   url: $SECRET_ARENANDLANO
+  #   icon: https://ndla.no/static/favicon-prod-32x32.png
+  #   assignees:
+  #     - ghveem
+  # - name: matomo (NDLA)
+  #   #url: $SECRET_tallNDLANO
+  #   url: https://tall.ndla.no
+  #   icon: https://ndla.no/static/favicon-prod-32x32.png
+  #   assignees:
+  #     - ghveem
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -106,7 +110,7 @@ status-website:
   logoUrl: https://ndla.no/static/metalogo.jpg
   name: NDLA.no - Oppetid
   introTitle: "**Oppetid** overvaker statusen til utvalde nettsider"
-  introMessage: For ndla.no - Dei flesta sakene heng saman, er t.d. api eller taksonomi nede, så påvirkar det resten. Er noko nede her, så har teknikarane fått varsel og jobbar med saka. 
+  introMessage: For ndla.no - Dei flesta sakene heng saman, er t.d. api eller taksonomi nede, så påvirkar det resten. Er noko nede her, så har teknikarane fått varsel og jobbar med saka.
 
   navbar:
     - title: Status
@@ -114,7 +118,7 @@ status-website:
     - title: Support
       href: https://support.ndla.no
     - title: Meld feil
-      href: https://support.ndla.no/hc/no/requests/new  
+      href: https://support.ndla.no/hc/no/requests/new
     - title: NDLA.no på facebook
       href: https://facebook.com/ndla.no
     - title: GitHub
@@ -172,8 +176,8 @@ i18n:
   scheduledMaintenance: Planlagt vedlikehald
   scheduledMaintenanceSummaryStarted: Starta $DATE og varar $DURATION minuttar
   scheduledMaintenanceSummaryStarts: Startar $DATE og varar $DURATION minuttar
-  startedAt: Starta 
-  startsAt: Startar 
+  startedAt: Starta
+  startsAt: Startar
   duration: Varar
   durationMin: $DURATION minuttar
   incidentCompleted: Fullført
