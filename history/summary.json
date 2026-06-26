@@ -25,17 +25,17 @@
     "url": "https://api.ndla.no",
     "icon": "https://ndla.no/static/favicon-prod-32x32.png",
     "slug": "api-ndla-no",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.30%",
-    "uptimeMonth": "98.57%",
-    "uptimeYear": "99.88%",
-    "time": 436,
-    "timeDay": 228,
-    "timeWeek": 321,
-    "timeMonth": 344,
-    "timeYear": 426,
+    "uptimeDay": "96.28%",
+    "uptimeWeek": "98.78%",
+    "uptimeMonth": "98.45%",
+    "uptimeYear": "99.87%",
+    "time": 435,
+    "timeDay": 224,
+    "timeWeek": 311,
+    "timeMonth": 341,
+    "timeYear": 425,
     "dailyMinutesDown": {
       "2026-06-02": 95,
       "2026-06-03": 52,
@@ -44,7 +44,7 @@
       "2026-06-17": 92,
       "2026-06-18": 148,
       "2026-06-19": 70,
-      "2026-06-26": 0
+      "2026-06-26": 54
     }
   },
   {
@@ -105,16 +105,16 @@
     "url": "https://api.ndla.no/taxonomy/api-docs",
     "icon": "https://ndla.no/static/favicon-prod-32x32.png",
     "slug": "taksonomi",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "98.72%",
-    "uptimeYear": "99.87%",
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "96.30%",
+    "uptimeWeek": "98.78%",
+    "uptimeMonth": "98.60%",
+    "uptimeYear": "99.86%",
     "time": 429,
-    "timeDay": 444,
-    "timeWeek": 450,
-    "timeMonth": 537,
+    "timeDay": 342,
+    "timeWeek": 421,
+    "timeMonth": 528,
     "timeYear": 440,
     "dailyMinutesDown": {
       "2026-05-14": 67,
@@ -126,7 +126,7 @@
       "2026-06-17": 92,
       "2026-06-18": 148,
       "2026-06-19": 70,
-      "2026-06-26": 0
+      "2026-06-26": 53
     }
   },
   {
