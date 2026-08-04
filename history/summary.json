@@ -179,21 +179,22 @@
     "url": "$SECRET_EDNDLANO",
     "icon": "https://ndla.no/static/favicon-prod-32x32.png",
     "slug": "ed-ndla",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 481,
-    "timeDay": 315,
-    "timeWeek": 403,
-    "timeMonth": 474,
+    "time": 482,
+    "timeDay": 439,
+    "timeWeek": 423,
+    "timeMonth": 477,
     "timeYear": 492,
     "dailyMinutesDown": {
       "2026-06-02": 59,
       "2026-06-03": 16,
-      "2026-06-08": 60
+      "2026-06-08": 60,
+      "2026-08-04": 0
     }
   },
   {
