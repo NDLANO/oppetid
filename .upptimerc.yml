@@ -29,16 +29,6 @@ sites:
     assignees:
       - ghveem
       - gunnarvelle
-  # - name: stier.ndla.no
-  #  url: https://stier.ndla.no
-  #  icon: https://ndla.no/static/favicon-prod-32x32.png
-  #  assignees:
-  #    - ghveem
-  # - name: liste.ndla.no
-  #  url: https://liste.ndla.no
-  #  icon: https://ndla.no/static/favicon-prod-32x32.png
-  #  assignees:
-  #    - ghveem
   - name: Taksonomi
     url: https://api.ndla.no/taxonomy/api-docs
     headers:
@@ -70,35 +60,11 @@ sites:
     assignees:
       - ghveem
       - gunnarvelle
-#  - name: NDLA Support
-#    url: https://support.ndla.no/
-#    icon: https://ndla.no/static/favicon-prod-32x32.png
-#    expectedStatusCodes:
-#      - 301
-#      - 403
-#    assignees:
-#      - ghveem
   - name: Kvalitet
     url: https://kvalitet.ndla.no
     icon: https://ndla.no/static/favicon-prod-32x32.png
     assignees:
       - ghveem
- # - name: blogg.ndla.no
- #   url: https://blogg.ndla.no
- #   icon: https://ndla.no/static/favicon-prod-32x32.png
- #   assignees:
- #     - ghveem
- # - name: arena (NDLA)
- #   url: $SECRET_ARENANDLANO
- #   icon: https://ndla.no/static/favicon-prod-32x32.png
- #   assignees:
- #     - ghveem
- # - name: matomo (NDLA)
- #   #url: $SECRET_tallNDLANO
- #   url: https://tall.ndla.no
- #   icon: https://ndla.no/static/favicon-prod-32x32.png
- #   assignees:
- #     - ghveem
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
