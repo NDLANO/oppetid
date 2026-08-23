@@ -154,17 +154,17 @@
     "url": "https://hub.h5p.ndla.no",
     "icon": "https://h5p.org/sites/all/themes/professional_themec/favicon.ico",
     "slug": "hub-h5p-ndla-no",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
-    "time": 1150,
-    "timeDay": 5537,
-    "timeWeek": 1671,
-    "timeMonth": 960,
-    "timeYear": 1202,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "86.29%",
+    "uptimeWeek": "98.04%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.89%",
+    "time": 1149,
+    "timeDay": 3872,
+    "timeWeek": 1568,
+    "timeMonth": 948,
+    "timeYear": 1200,
     "dailyMinutesDown": {
       "2025-12-30": 31,
       "2026-02-09": 16,
@@ -175,7 +175,7 @@
       "2026-06-02": 66,
       "2026-06-03": 23,
       "2026-06-08": 67,
-      "2026-08-23": 1
+      "2026-08-23": 197
     }
   },
   {
