@@ -23,6 +23,7 @@ sites:
     assignees:
       - ghveem
       - janlindso
+    timeout: 15000
   - name: arena.ndla.no
     url: https://arena.ndla.no
     icon: https://ndla.no/static/favicon-prod-32x32.png
