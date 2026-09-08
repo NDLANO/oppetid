@@ -23,7 +23,7 @@ sites:
     assignees:
       - ghveem
       - janlindso
-    __dangerous_headers:
+    headers:
       User-Agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
   - name: arena.ndla.no
     url: https://arena.ndla.no
