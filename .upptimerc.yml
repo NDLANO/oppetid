@@ -23,7 +23,8 @@ sites:
     assignees:
       - ghveem
       - janlindso
-    timeout: 15000
+    __dangerous_headers:
+      User-Agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
   - name: arena.ndla.no
     url: https://arena.ndla.no
     icon: https://ndla.no/static/favicon-prod-32x32.png
