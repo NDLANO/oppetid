@@ -13,7 +13,7 @@
     "time": 921,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 751,
+    "timeMonth": 777,
     "timeYear": 802,
     "dailyMinutesDown": {
       "2026-05-14": 34,
@@ -34,8 +34,8 @@
     "time": 431,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 503,
-    "timeYear": 418,
+    "timeMonth": 506,
+    "timeYear": 419,
     "dailyMinutesDown": {
       "2026-06-02": 95,
       "2026-06-03": 52,
@@ -58,15 +58,15 @@
     "icon": "https://ndla.no/static/favicon-prod-32x32.png",
     "slug": "ndla-ki-no",
     "status": "up",
-    "uptime": "99.63%",
+    "uptime": "99.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
-    "uptimeYear": "99.63%",
+    "uptimeYear": "99.64%",
     "time": 1817,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1514,
+    "timeMonth": 1519,
     "timeYear": 1817,
     "dailyMinutesDown": {
       "2026-03-02": 64,
@@ -109,7 +109,7 @@
     "time": 742,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 935,
+    "timeMonth": 943,
     "timeYear": 799,
     "dailyMinutesDown": {
       "2026-03-10": 22,
@@ -132,7 +132,7 @@
     "time": 461,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 626,
+    "timeMonth": 635,
     "timeYear": 477,
     "dailyMinutesDown": {
       "2026-05-14": 67,
@@ -165,7 +165,7 @@
     "time": 1136,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1066,
+    "timeMonth": 1108,
     "timeYear": 1190,
     "dailyMinutesDown": {
       "2025-12-30": 31,
@@ -194,7 +194,7 @@
     "time": 480,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 385,
+    "timeMonth": 391,
     "timeYear": 478,
     "dailyMinutesDown": {
       "2026-06-02": 59,
@@ -217,8 +217,8 @@
     "time": 1044,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1174,
-    "timeYear": 1102,
+    "timeMonth": 1222,
+    "timeYear": 1103,
     "dailyMinutesDown": {
       "2025-12-10": 20,
       "2026-03-27": 444,
@@ -240,8 +240,8 @@
     "time": 969,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 855,
-    "timeYear": 935,
+    "timeMonth": 891,
+    "timeYear": 936,
     "dailyMinutesDown": {
       "2026-02-09": 17
     }
@@ -260,7 +260,7 @@
     "time": 613,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 608,
+    "timeMonth": 613,
     "timeYear": 620,
     "dailyMinutesDown": {
       "2025-09-24": 21,
