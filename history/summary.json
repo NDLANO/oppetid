@@ -14,7 +14,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 778,
+    "timeYear": 777,
     "dailyMinutesDown": {
       "2026-05-14": 34,
       "2026-05-15": 71
@@ -35,7 +35,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 420,
+    "timeYear": 421,
     "dailyMinutesDown": {
       "2026-06-02": 95,
       "2026-06-03": 52,
@@ -58,11 +58,11 @@
     "icon": "https://ndla.no/static/favicon-prod-32x32.png",
     "slug": "ndla-ki-no",
     "status": "up",
-    "uptime": "99.66%",
+    "uptime": "99.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.66%",
+    "uptimeYear": "99.67%",
     "time": 1817,
     "timeDay": 0,
     "timeWeek": 0,
@@ -110,7 +110,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 809,
+    "timeYear": 810,
     "dailyMinutesDown": {
       "2026-03-10": 22,
       "2026-06-02": 80,
@@ -166,7 +166,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1195,
+    "timeYear": 1196,
     "dailyMinutesDown": {
       "2025-12-30": 31,
       "2026-02-09": 16,
@@ -218,7 +218,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1117,
+    "timeYear": 1119,
     "dailyMinutesDown": {
       "2025-12-10": 20,
       "2026-03-27": 444,
